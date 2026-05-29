@@ -1,0 +1,1001 @@
+employee_id,age,gender,department,job_level,education,tenure_years,salary,satisfaction_score,performance_score,work_life_balance,attrition,attrition_label
+EMP-0001,49,Male,Sales,Junior,Bachelor,3,56000.0,1,2,2,0,No
+EMP-0002,28,Male,Operations,Mid,Bachelor,3,60800.0,4,3,5,0,No
+EMP-0003,56,Female,Finance,Manager,Bachelor,17,123800.0,2,1,3,0,No
+EMP-0004,49,Male,HR,Senior,Bachelor,7,95000.0,4,2,5,0,No
+EMP-0005,35,Female,Engineering,Manager,Master,14,146800.0,4,4,5,1,Yes
+EMP-0006,31,Female,Engineering,Senior,PhD,17,115500.0,3,2,1,0,No
+EMP-0007,37,Female,Engineering,Senior,Bachelor,18,125100.0,1,2,1,1,Yes
+EMP-0008,37,Male,Marketing,Manager,Master,13,114300.0,4,1,1,0,No
+EMP-0009,52,Male,Finance,Junior,Bachelor,18,50500.0,5,5,5,0,No
+EMP-0010,46,Male,Finance,Mid,Bachelor,4,60900.0,1,5,2,0,No
+EMP-0011,34,Female,Engineering,Junior,Master,1,45500.0,2,5,3,1,Yes
+EMP-0012,27,Male,Operations,Director,Bachelor,18,185400.0,3,2,3,0,No
+EMP-0013,30,Female,Marketing,Manager,Master,1,111300.0,2,1,2,0,No
+EMP-0014,57,Male,Engineering,Junior,Master,13,45000.0,2,3,2,0,No
+EMP-0015,41,Male,Engineering,Senior,Bachelor,10,114200.0,1,2,3,0,No
+EMP-0016,39,Male,Engineering,Manager,PhD,11,137200.0,2,2,4,0,No
+EMP-0017,42,Male,Sales,Junior,Master,9,45500.0,4,1,1,0,No
+EMP-0018,25,Female,HR,Mid,Bachelor,9,77700.0,2,4,1,0,No
+EMP-0019,54,Female,Sales,Manager,Master,5,150500.0,3,2,3,0,No
+EMP-0020,48,Female,Engineering,Junior,Bachelor,1,40200.0,3,4,2,0,No
+EMP-0021,28,Female,Finance,Senior,PhD,17,121300.0,5,4,4,0,No
+EMP-0022,27,Male,Engineering,Junior,Master,2,57500.0,3,5,3,0,No
+EMP-0023,36,Female,Engineering,Manager,High School,13,127000.0,2,1,1,0,No
+EMP-0024,39,Female,Sales,Director,Bachelor,9,160900.0,3,4,5,0,No
+EMP-0025,53,Female,Sales,Manager,Master,4,157900.0,1,1,2,1,Yes
+EMP-0026,32,Male,Marketing,Mid,High School,5,70100.0,3,5,5,0,No
+EMP-0027,41,Female,Engineering,Manager,High School,11,114600.0,4,1,3,0,No
+EMP-0028,45,Female,HR,Manager,Bachelor,19,114800.0,1,2,1,0,No
+EMP-0029,36,Male,HR,Mid,Bachelor,3,85400.0,5,4,4,0,No
+EMP-0030,28,Male,Engineering,Manager,Bachelor,12,140200.0,4,1,5,0,No
+EMP-0031,42,Female,Finance,Junior,Bachelor,19,60200.0,2,3,4,1,Yes
+EMP-0032,47,Female,Engineering,Mid,Bachelor,19,81900.0,2,1,1,1,Yes
+EMP-0033,35,Male,Engineering,Junior,Master,13,53400.0,2,4,5,0,No
+EMP-0034,58,Female,Operations,Junior,Bachelor,7,64300.0,4,5,4,0,No
+EMP-0035,42,Male,Operations,Junior,Bachelor,15,49500.0,4,5,4,0,No
+EMP-0036,39,Female,Marketing,Senior,Bachelor,7,109800.0,4,4,5,0,No
+EMP-0037,26,Female,Sales,Mid,Bachelor,8,84900.0,1,2,1,1,Yes
+EMP-0038,24,Female,Engineering,Senior,High School,5,112800.0,1,2,4,0,No
+EMP-0039,44,Female,Finance,Junior,Bachelor,14,61500.0,2,5,3,0,No
+EMP-0040,47,Female,Sales,Mid,High School,4,77300.0,3,5,5,0,No
+EMP-0041,58,Male,Engineering,Mid,Master,10,81100.0,2,4,2,0,No
+EMP-0042,45,Male,Sales,Senior,Master,15,87100.0,5,2,2,0,No
+EMP-0043,40,Female,Engineering,Mid,Master,18,66800.0,1,5,1,0,No
+EMP-0044,46,Female,Operations,Senior,Master,13,98000.0,4,2,3,0,No
+EMP-0045,42,Female,Engineering,Manager,Master,8,114000.0,1,5,4,1,Yes
+EMP-0046,33,Male,Finance,Senior,Bachelor,9,95500.0,4,1,2,0,No
+EMP-0047,54,Male,Sales,Junior,Master,16,42500.0,5,3,1,0,No
+EMP-0048,25,Male,HR,Junior,High School,19,46900.0,5,1,3,0,No
+EMP-0049,28,Male,HR,Manager,Master,16,141800.0,1,5,3,0,No
+EMP-0050,43,Male,Engineering,Junior,Master,7,49100.0,4,3,1,0,No
+EMP-0051,54,Male,Operations,Manager,Bachelor,14,128500.0,5,3,1,0,No
+EMP-0052,38,Male,Marketing,Mid,Bachelor,14,66300.0,2,5,4,0,No
+EMP-0053,45,Male,Operations,Manager,Bachelor,4,123300.0,2,5,1,0,No
+EMP-0054,55,Female,Marketing,Senior,Master,15,127100.0,4,2,4,0,No
+EMP-0055,49,Male,HR,Director,Master,3,195400.0,1,5,4,1,Yes
+EMP-0056,43,Male,Operations,Mid,Master,5,78300.0,5,4,5,0,No
+EMP-0057,38,Male,Engineering,Senior,Bachelor,1,92700.0,1,5,3,0,No
+EMP-0058,55,Male,Engineering,Mid,Master,3,81900.0,2,4,3,0,No
+EMP-0059,27,Female,Engineering,Mid,Bachelor,15,64900.0,5,5,3,0,No
+EMP-0060,27,Male,Sales,Senior,Master,8,102100.0,1,2,5,0,No
+EMP-0061,55,Female,Sales,Manager,Bachelor,4,159500.0,3,4,4,0,No
+EMP-0062,22,Female,Engineering,Director,Bachelor,2,194800.0,4,1,4,0,No
+EMP-0063,31,Female,Marketing,Senior,Bachelor,10,110100.0,4,4,1,0,No
+EMP-0064,42,Male,Sales,Mid,Master,4,80500.0,3,2,5,0,No
+EMP-0065,26,Male,Engineering,Mid,PhD,3,85300.0,2,4,1,0,No
+EMP-0066,23,Male,HR,Senior,High School,2,119900.0,5,5,5,0,No
+EMP-0067,43,Female,Engineering,Junior,High School,17,45700.0,4,5,1,0,No
+EMP-0068,23,Female,Marketing,Junior,PhD,13,40800.0,3,2,2,0,No
+EMP-0069,31,Female,Engineering,Mid,Bachelor,5,69500.0,3,3,3,0,No
+EMP-0070,55,Female,Operations,Junior,Master,9,46700.0,2,5,3,0,No
+EMP-0071,37,Male,Marketing,Junior,Bachelor,6,45300.0,2,1,4,1,Yes
+EMP-0072,43,Male,Engineering,Junior,High School,5,63600.0,1,2,2,0,No
+EMP-0073,33,Male,Engineering,Junior,Master,10,61900.0,4,4,3,0,No
+EMP-0074,45,Female,Marketing,Junior,Master,8,47900.0,1,4,4,1,Yes
+EMP-0075,59,Female,Finance,Director,Bachelor,7,195900.0,3,1,2,0,No
+EMP-0076,31,Male,Finance,Mid,Bachelor,7,71900.0,5,5,3,0,No
+EMP-0077,56,Male,Marketing,Mid,Master,6,87400.0,5,2,1,0,No
+EMP-0078,53,Female,Engineering,Senior,High School,3,105600.0,2,1,5,1,Yes
+EMP-0079,28,Male,Sales,Junior,Master,19,46600.0,5,5,2,0,No
+EMP-0080,42,Male,Engineering,Manager,Bachelor,15,122300.0,5,2,4,0,No
+EMP-0081,41,Female,Marketing,Senior,Bachelor,4,110300.0,5,4,2,1,Yes
+EMP-0082,47,Female,Finance,Junior,PhD,12,46600.0,3,2,4,0,No
+EMP-0083,25,Female,Sales,Mid,Master,6,77500.0,5,3,2,0,No
+EMP-0084,43,Male,Engineering,Manager,Bachelor,19,154900.0,5,2,4,0,No
+EMP-0085,36,Female,Sales,Manager,Master,4,130000.0,5,3,3,0,No
+EMP-0086,42,Male,Sales,Mid,Bachelor,15,66600.0,1,2,1,0,No
+EMP-0087,36,Male,Finance,Senior,Bachelor,9,129900.0,3,3,3,0,No
+EMP-0088,43,Female,Finance,Junior,PhD,5,52700.0,2,4,1,1,Yes
+EMP-0089,49,Male,Marketing,Director,Master,13,156400.0,1,5,3,0,No
+EMP-0090,35,Female,Sales,Junior,Master,18,41200.0,4,3,3,0,No
+EMP-0091,48,Female,Engineering,Manager,Bachelor,5,115500.0,3,3,2,0,No
+EMP-0092,49,Male,Finance,Senior,High School,16,113200.0,3,4,5,0,No
+EMP-0093,47,Male,Marketing,Senior,High School,19,120600.0,4,3,4,0,No
+EMP-0094,23,Female,HR,Mid,Bachelor,14,72700.0,4,1,4,0,No
+EMP-0095,46,Female,Marketing,Junior,Master,16,41600.0,4,4,4,0,No
+EMP-0096,24,Female,Sales,Junior,Bachelor,15,49500.0,2,1,1,0,No
+EMP-0097,29,Female,HR,Junior,Master,4,64900.0,5,4,4,0,No
+EMP-0098,54,Female,Sales,Junior,High School,7,53200.0,3,3,4,0,No
+EMP-0099,56,Female,Engineering,Senior,Bachelor,16,128700.0,5,1,2,0,No
+EMP-0100,27,Male,Engineering,Mid,Bachelor,8,85800.0,5,3,3,0,No
+EMP-0101,44,Male,Engineering,Junior,Bachelor,17,40300.0,4,4,4,0,No
+EMP-0102,46,Male,Finance,Director,High School,16,200500.0,2,3,5,0,No
+EMP-0103,40,Male,Sales,Manager,PhD,10,144100.0,1,1,4,1,Yes
+EMP-0104,26,Female,HR,Manager,Bachelor,10,136800.0,2,1,1,0,No
+EMP-0105,32,Male,Operations,Director,PhD,2,168700.0,5,3,1,0,No
+EMP-0106,33,Male,Engineering,Junior,Bachelor,9,56000.0,2,2,1,0,No
+EMP-0107,31,Female,Sales,Mid,PhD,17,63300.0,4,4,4,0,No
+EMP-0108,29,Male,Marketing,Senior,Bachelor,11,104600.0,1,4,2,1,Yes
+EMP-0109,45,Female,Engineering,Senior,PhD,10,105400.0,4,3,5,0,No
+EMP-0110,49,Female,Engineering,Junior,High School,17,63800.0,1,2,4,0,No
+EMP-0111,57,Female,Engineering,Manager,Master,4,153800.0,5,1,2,0,No
+EMP-0112,58,Female,Engineering,Junior,PhD,16,46600.0,1,5,2,0,No
+EMP-0113,42,Female,Operations,Junior,Bachelor,15,52500.0,1,5,4,0,No
+EMP-0114,29,Male,Marketing,Mid,High School,5,65400.0,1,3,4,0,No
+EMP-0115,30,Male,Finance,Mid,Bachelor,6,87400.0,2,2,2,1,Yes
+EMP-0116,36,Male,Marketing,Mid,PhD,17,86100.0,2,2,2,1,Yes
+EMP-0117,39,Female,Marketing,Junior,Bachelor,1,47500.0,5,4,2,0,No
+EMP-0118,41,Male,Engineering,Manager,Bachelor,19,141900.0,1,1,4,0,No
+EMP-0119,27,Male,Marketing,Junior,Bachelor,4,55200.0,3,2,2,1,Yes
+EMP-0120,33,Male,HR,Junior,High School,17,43800.0,5,5,1,0,No
+EMP-0121,23,Male,Marketing,Manager,Master,9,148100.0,1,1,4,0,No
+EMP-0122,28,Female,Marketing,Director,High School,2,187800.0,1,1,1,0,No
+EMP-0123,37,Male,Sales,Manager,Master,8,148900.0,2,3,3,1,Yes
+EMP-0124,24,Female,Engineering,Manager,PhD,15,136500.0,5,2,4,0,No
+EMP-0125,24,Female,Engineering,Senior,Bachelor,7,85000.0,1,3,3,1,Yes
+EMP-0126,48,Male,Sales,Mid,Master,6,69700.0,1,2,2,1,Yes
+EMP-0127,59,Female,Marketing,Junior,High School,1,40500.0,5,4,2,1,Yes
+EMP-0128,54,Female,Marketing,Mid,Master,15,87900.0,3,3,5,0,No
+EMP-0129,49,Female,Engineering,Mid,Bachelor,7,86400.0,5,3,2,0,No
+EMP-0130,22,Female,HR,Junior,Master,17,60800.0,5,5,3,0,No
+EMP-0131,29,Female,Sales,Senior,Bachelor,2,98800.0,3,3,2,1,Yes
+EMP-0132,58,Female,Engineering,Mid,Bachelor,9,61700.0,5,2,4,0,No
+EMP-0133,53,Female,Engineering,Junior,Bachelor,9,62000.0,1,5,2,1,Yes
+EMP-0134,58,Male,Sales,Junior,Bachelor,13,63700.0,5,3,5,0,No
+EMP-0135,25,Male,Operations,Senior,Master,6,88900.0,3,3,2,1,Yes
+EMP-0136,51,Female,Sales,Junior,Bachelor,6,52100.0,4,4,3,0,No
+EMP-0137,27,Female,HR,Manager,Master,3,113500.0,5,3,3,0,No
+EMP-0138,40,Male,Finance,Mid,Bachelor,17,82800.0,2,1,2,0,No
+EMP-0139,53,Male,Sales,Mid,Master,17,83000.0,1,5,3,0,No
+EMP-0140,30,Male,Operations,Mid,Bachelor,12,63900.0,1,1,3,0,No
+EMP-0141,33,Male,Operations,Manager,Bachelor,16,133800.0,2,5,5,0,No
+EMP-0142,32,Female,Engineering,Mid,Bachelor,15,76500.0,2,4,4,0,No
+EMP-0143,37,Female,Sales,Senior,Master,13,96900.0,5,3,5,0,No
+EMP-0144,22,Male,Sales,Mid,Bachelor,1,86200.0,2,3,1,0,No
+EMP-0145,42,Male,Engineering,Junior,Master,17,50600.0,4,3,5,0,No
+EMP-0146,51,Male,Engineering,Manager,Master,3,120600.0,3,5,2,1,Yes
+EMP-0147,34,Male,Finance,Senior,Bachelor,15,109300.0,2,3,4,0,No
+EMP-0148,55,Female,HR,Senior,Master,4,117800.0,2,1,2,0,No
+EMP-0149,25,Male,Engineering,Manager,High School,4,120100.0,4,3,1,1,Yes
+EMP-0150,49,Male,Engineering,Manager,Bachelor,18,125600.0,1,4,4,0,No
+EMP-0151,59,Male,Operations,Senior,Master,17,129800.0,1,1,3,1,Yes
+EMP-0152,52,Female,Engineering,Manager,Master,19,142500.0,5,3,5,0,No
+EMP-0153,48,Female,Engineering,Senior,Master,11,104700.0,4,3,2,0,No
+EMP-0154,26,Female,Sales,Senior,Bachelor,3,108300.0,3,2,1,1,Yes
+EMP-0155,46,Male,Operations,Senior,Bachelor,8,90400.0,3,5,3,0,No
+EMP-0156,24,Male,Engineering,Senior,Bachelor,14,95100.0,4,1,5,0,No
+EMP-0157,54,Male,Finance,Junior,Master,1,48500.0,3,2,3,0,No
+EMP-0158,25,Female,Marketing,Manager,Bachelor,14,139400.0,1,4,5,0,No
+EMP-0159,46,Female,Engineering,Manager,Master,2,121500.0,3,5,4,1,Yes
+EMP-0160,41,Male,Finance,Junior,Bachelor,4,45500.0,3,1,3,0,No
+EMP-0161,55,Male,Sales,Manager,Bachelor,19,113500.0,4,3,3,0,No
+EMP-0162,47,Female,Finance,Junior,Bachelor,6,55800.0,4,1,3,0,No
+EMP-0163,26,Male,Finance,Mid,High School,1,66900.0,3,3,4,0,No
+EMP-0164,56,Male,HR,Senior,Bachelor,17,125700.0,2,5,1,0,No
+EMP-0165,49,Male,Engineering,Junior,Master,8,61500.0,4,3,5,0,No
+EMP-0166,50,Female,Marketing,Manager,Master,19,113500.0,5,4,3,0,No
+EMP-0167,30,Male,Sales,Manager,Bachelor,1,121900.0,5,3,4,0,No
+EMP-0168,59,Male,Engineering,Mid,Bachelor,5,80100.0,1,4,1,1,Yes
+EMP-0169,27,Male,Engineering,Junior,High School,16,45400.0,3,5,5,0,No
+EMP-0170,40,Male,HR,Junior,Master,6,43300.0,2,5,4,1,Yes
+EMP-0171,32,Female,Finance,Senior,High School,8,127100.0,1,1,5,1,Yes
+EMP-0172,23,Female,Engineering,Director,PhD,13,190000.0,3,4,3,0,No
+EMP-0173,30,Female,HR,Senior,Bachelor,16,106300.0,4,4,1,0,No
+EMP-0174,42,Male,Engineering,Junior,Bachelor,3,59600.0,5,2,4,1,Yes
+EMP-0175,45,Female,Finance,Senior,PhD,19,121300.0,2,2,1,0,No
+EMP-0176,55,Male,Engineering,Mid,High School,12,65700.0,5,2,3,1,Yes
+EMP-0177,43,Female,Finance,Senior,Bachelor,16,89400.0,4,3,1,0,No
+EMP-0178,24,Male,Sales,Junior,Bachelor,11,50800.0,3,2,1,0,No
+EMP-0179,33,Female,Operations,Senior,Bachelor,10,104100.0,4,4,2,0,No
+EMP-0180,49,Female,Engineering,Mid,Bachelor,4,74000.0,4,3,1,1,Yes
+EMP-0181,51,Female,Sales,Director,Master,12,201000.0,5,5,5,0,No
+EMP-0182,47,Male,Engineering,Mid,Master,2,80200.0,2,1,4,1,Yes
+EMP-0183,42,Male,Operations,Senior,High School,19,129300.0,4,2,2,1,Yes
+EMP-0184,49,Male,Marketing,Manager,PhD,5,114900.0,5,5,4,0,No
+EMP-0185,47,Female,Engineering,Junior,Bachelor,8,50100.0,2,4,4,0,No
+EMP-0186,54,Male,Finance,Manager,Bachelor,7,127000.0,3,1,3,0,No
+EMP-0187,42,Male,Marketing,Senior,Bachelor,14,123800.0,3,5,3,0,No
+EMP-0188,56,Male,HR,Junior,High School,3,46200.0,1,1,2,1,Yes
+EMP-0189,55,Male,HR,Mid,Bachelor,18,65700.0,5,2,3,0,No
+EMP-0190,39,Male,Engineering,Senior,PhD,16,105200.0,2,4,3,0,No
+EMP-0191,32,Male,Engineering,Junior,Bachelor,19,50500.0,4,1,3,0,No
+EMP-0192,44,Female,Marketing,Mid,Bachelor,19,68400.0,3,5,4,0,No
+EMP-0193,43,Female,Operations,Mid,Bachelor,18,67500.0,2,2,2,0,No
+EMP-0194,38,Male,Finance,Senior,Master,16,126500.0,5,2,4,0,No
+EMP-0195,26,Female,Sales,Junior,Master,8,51100.0,1,5,5,0,No
+EMP-0196,32,Female,Sales,Manager,Bachelor,1,153100.0,3,5,4,0,No
+EMP-0197,51,Male,Finance,Director,High School,17,188500.0,2,1,5,0,No
+EMP-0198,36,Male,Marketing,Director,Bachelor,12,153500.0,2,3,1,0,No
+EMP-0199,48,Female,Marketing,Senior,High School,11,130000.0,2,2,1,0,No
+EMP-0200,56,Male,Marketing,Junior,Bachelor,5,60900.0,5,1,5,0,No
+EMP-0201,54,Female,Finance,Senior,Bachelor,12,128600.0,5,5,5,0,No
+EMP-0202,41,Female,Engineering,Junior,Bachelor,17,63200.0,5,1,4,0,No
+EMP-0203,37,Female,Engineering,Junior,Bachelor,6,61200.0,4,5,5,1,Yes
+EMP-0204,55,Male,Marketing,Mid,Bachelor,1,65000.0,2,4,2,0,No
+EMP-0205,23,Female,Finance,Mid,PhD,5,74600.0,3,5,1,0,No
+EMP-0206,56,Male,Engineering,Senior,PhD,14,94600.0,5,5,1,0,No
+EMP-0207,49,Male,Engineering,Senior,Bachelor,5,103000.0,5,5,5,0,No
+EMP-0208,27,Male,Finance,Mid,Bachelor,1,61800.0,2,3,3,1,Yes
+EMP-0209,30,Male,Engineering,Junior,Bachelor,18,49500.0,5,5,3,0,No
+EMP-0210,41,Male,Engineering,Director,Bachelor,16,219000.0,4,2,5,0,No
+EMP-0211,22,Female,HR,Mid,Master,9,68000.0,4,2,2,0,No
+EMP-0212,29,Male,Finance,Mid,Bachelor,19,83500.0,5,1,3,0,No
+EMP-0213,44,Male,Finance,Junior,Master,5,51400.0,2,3,5,0,No
+EMP-0214,24,Male,Engineering,Senior,PhD,2,104000.0,2,1,2,0,No
+EMP-0215,25,Male,Finance,Senior,Bachelor,15,128100.0,2,2,2,0,No
+EMP-0216,46,Male,Engineering,Junior,Bachelor,7,64900.0,1,2,4,0,No
+EMP-0217,59,Female,Sales,Junior,High School,4,53900.0,5,4,2,0,No
+EMP-0218,36,Male,Finance,Senior,Bachelor,1,117300.0,2,5,3,0,No
+EMP-0219,42,Male,Finance,Senior,Bachelor,13,92000.0,4,2,3,0,No
+EMP-0220,56,Female,Marketing,Junior,Bachelor,7,47400.0,3,1,5,0,No
+EMP-0221,35,Male,Finance,Director,Master,15,217800.0,3,1,5,0,No
+EMP-0222,57,Female,HR,Junior,Bachelor,14,54500.0,2,5,2,0,No
+EMP-0223,33,Female,Engineering,Mid,Bachelor,19,76300.0,3,5,1,0,No
+EMP-0224,38,Female,Sales,Manager,Master,18,147400.0,3,4,4,0,No
+EMP-0225,30,Female,Engineering,Mid,Master,10,61700.0,1,3,1,0,No
+EMP-0226,56,Male,Engineering,Senior,Bachelor,9,111300.0,4,1,2,0,No
+EMP-0227,34,Male,Operations,Mid,Master,8,75100.0,4,5,2,0,No
+EMP-0228,36,Female,Sales,Junior,Bachelor,10,61300.0,1,1,1,0,No
+EMP-0229,39,Female,Marketing,Director,Bachelor,17,161000.0,1,5,4,0,No
+EMP-0230,54,Male,Finance,Mid,High School,2,88800.0,3,2,1,1,Yes
+EMP-0231,27,Female,Marketing,Manager,Bachelor,6,114000.0,5,1,5,0,No
+EMP-0232,48,Female,HR,Junior,Master,5,44600.0,3,2,3,0,No
+EMP-0233,44,Female,HR,Junior,Master,9,54900.0,1,1,5,0,No
+EMP-0234,48,Male,Sales,Junior,Master,5,56900.0,4,3,3,0,No
+EMP-0235,55,Female,Engineering,Senior,Bachelor,18,95600.0,3,4,2,1,Yes
+EMP-0236,59,Male,Finance,Mid,Bachelor,9,63600.0,5,2,4,0,No
+EMP-0237,35,Male,Engineering,Manager,High School,17,154500.0,3,5,1,0,No
+EMP-0238,57,Male,Engineering,Mid,Bachelor,17,67400.0,2,3,4,0,No
+EMP-0239,29,Female,Finance,Director,Master,12,191600.0,3,1,1,0,No
+EMP-0240,56,Female,Engineering,Junior,Master,7,55500.0,1,2,5,0,No
+EMP-0241,40,Male,Operations,Manager,Bachelor,3,131000.0,4,1,5,0,No
+EMP-0242,51,Male,Operations,Senior,Bachelor,10,111300.0,4,1,1,1,Yes
+EMP-0243,35,Male,Operations,Senior,Bachelor,2,108500.0,1,1,4,1,Yes
+EMP-0244,41,Female,Sales,Manager,Bachelor,3,156700.0,2,4,1,0,No
+EMP-0245,46,Female,Engineering,Senior,Bachelor,16,94200.0,1,4,2,0,No
+EMP-0246,45,Male,Operations,Senior,Bachelor,2,117200.0,3,5,5,1,Yes
+EMP-0247,35,Male,Sales,Junior,Bachelor,10,46000.0,1,2,2,1,Yes
+EMP-0248,47,Female,Operations,Junior,High School,6,49900.0,1,3,5,0,No
+EMP-0249,59,Male,Operations,Manager,Bachelor,11,143600.0,2,3,5,0,No
+EMP-0250,44,Female,Marketing,Senior,High School,7,98500.0,3,3,3,0,No
+EMP-0251,43,Female,Engineering,Senior,Master,15,99200.0,5,1,2,0,No
+EMP-0252,40,Male,Sales,Mid,Bachelor,6,82600.0,5,4,2,0,No
+EMP-0253,24,Male,Marketing,Junior,PhD,9,41800.0,4,2,3,0,No
+EMP-0254,40,Female,Sales,Junior,Bachelor,12,51500.0,1,1,4,0,No
+EMP-0255,30,Female,Engineering,Senior,Bachelor,19,129900.0,4,4,2,0,No
+EMP-0256,49,Female,HR,Mid,Bachelor,3,89900.0,2,4,1,0,No
+EMP-0257,41,Female,Operations,Junior,High School,15,41800.0,5,2,3,0,No
+EMP-0258,28,Female,Finance,Mid,Master,2,66400.0,1,2,2,0,No
+EMP-0259,35,Male,HR,Junior,High School,2,46600.0,2,2,4,0,No
+EMP-0260,30,Female,Engineering,Mid,PhD,3,88000.0,2,1,2,1,Yes
+EMP-0261,40,Female,Finance,Junior,Master,6,62000.0,1,5,5,1,Yes
+EMP-0262,35,Female,Operations,Senior,Bachelor,15,124600.0,2,2,1,0,No
+EMP-0263,59,Male,Engineering,Mid,Bachelor,10,71100.0,1,5,3,0,No
+EMP-0264,57,Male,HR,Mid,Master,9,64700.0,1,1,5,1,Yes
+EMP-0265,38,Female,Marketing,Junior,Bachelor,1,60800.0,3,5,4,1,Yes
+EMP-0266,51,Female,Finance,Junior,Master,16,57600.0,4,3,5,1,Yes
+EMP-0267,30,Male,Finance,Mid,High School,6,78400.0,2,5,5,1,Yes
+EMP-0268,54,Male,Finance,Mid,High School,9,89600.0,2,2,4,0,No
+EMP-0269,46,Male,Sales,Senior,Bachelor,4,114400.0,3,1,5,0,No
+EMP-0270,35,Male,Engineering,Junior,Bachelor,2,40200.0,3,2,3,0,No
+EMP-0271,32,Female,Marketing,Senior,Master,4,121800.0,3,3,2,0,No
+EMP-0272,56,Male,Marketing,Manager,Bachelor,1,125000.0,5,2,5,0,No
+EMP-0273,35,Female,Marketing,Senior,Master,19,114900.0,5,2,3,0,No
+EMP-0274,51,Female,Operations,Junior,Bachelor,10,63500.0,5,2,2,0,No
+EMP-0275,25,Male,HR,Mid,Bachelor,15,64000.0,1,4,2,1,Yes
+EMP-0276,25,Male,HR,Junior,Bachelor,19,42900.0,2,3,5,0,No
+EMP-0277,49,Male,Marketing,Junior,Bachelor,16,42700.0,4,2,3,0,No
+EMP-0278,29,Male,Finance,Director,Bachelor,4,188700.0,1,2,5,0,No
+EMP-0279,23,Female,Finance,Junior,Bachelor,2,46800.0,2,2,4,0,No
+EMP-0280,43,Female,Marketing,Mid,Master,13,78100.0,2,1,2,1,Yes
+EMP-0281,37,Female,Marketing,Senior,Bachelor,1,117300.0,3,4,5,0,No
+EMP-0282,50,Male,Sales,Senior,Bachelor,17,94200.0,3,1,2,1,Yes
+EMP-0283,51,Female,Sales,Mid,Master,13,79000.0,1,4,3,0,No
+EMP-0284,33,Male,Engineering,Junior,Master,4,46600.0,3,2,1,0,No
+EMP-0285,56,Female,HR,Mid,Bachelor,7,74700.0,2,3,5,0,No
+EMP-0286,32,Male,Engineering,Mid,Bachelor,17,87200.0,3,5,5,0,No
+EMP-0287,42,Female,Sales,Junior,Master,9,61200.0,5,5,2,1,Yes
+EMP-0288,42,Female,HR,Mid,Bachelor,4,62800.0,3,2,3,0,No
+EMP-0289,26,Male,Engineering,Junior,Bachelor,19,50600.0,2,1,4,1,Yes
+EMP-0290,41,Female,HR,Junior,Bachelor,1,46900.0,1,3,3,0,No
+EMP-0291,58,Female,Engineering,Mid,Master,10,60100.0,4,4,5,1,Yes
+EMP-0292,24,Male,Engineering,Junior,High School,4,59300.0,3,2,4,0,No
+EMP-0293,54,Male,Marketing,Mid,PhD,9,79100.0,2,3,3,1,Yes
+EMP-0294,30,Male,Sales,Senior,Bachelor,13,96800.0,4,3,1,0,No
+EMP-0295,30,Male,Engineering,Manager,Master,14,147100.0,4,4,2,0,No
+EMP-0296,25,Male,HR,Junior,Bachelor,10,53800.0,5,3,3,0,No
+EMP-0297,56,Female,Marketing,Junior,Bachelor,6,50700.0,4,1,3,1,Yes
+EMP-0298,38,Male,Engineering,Junior,Master,16,40200.0,2,1,1,0,No
+EMP-0299,55,Female,Finance,Senior,Bachelor,6,88400.0,2,1,5,0,No
+EMP-0300,45,Female,Engineering,Senior,Bachelor,17,124700.0,3,3,2,1,Yes
+EMP-0301,53,Male,Engineering,Junior,High School,10,62600.0,3,1,3,0,No
+EMP-0302,22,Female,HR,Manager,High School,18,137300.0,3,4,4,0,No
+EMP-0303,29,Female,HR,Junior,Bachelor,18,60900.0,4,3,3,0,No
+EMP-0304,44,Male,Finance,Mid,Master,3,77500.0,4,5,2,0,No
+EMP-0305,33,Female,Finance,Senior,Bachelor,15,91700.0,5,3,3,0,No
+EMP-0306,33,Male,Operations,Manager,Bachelor,15,116400.0,3,4,1,0,No
+EMP-0307,36,Male,HR,Senior,Bachelor,4,98900.0,1,5,3,0,No
+EMP-0308,40,Male,Sales,Manager,Master,9,154900.0,5,3,3,1,Yes
+EMP-0309,47,Female,Marketing,Mid,Master,19,83900.0,1,1,4,0,No
+EMP-0310,50,Female,Engineering,Manager,Bachelor,17,153000.0,4,2,1,0,No
+EMP-0311,43,Female,Sales,Junior,High School,11,62500.0,5,2,1,0,No
+EMP-0312,42,Female,Engineering,Manager,PhD,9,120500.0,5,1,3,0,No
+EMP-0313,59,Male,Engineering,Mid,Bachelor,10,67500.0,2,2,4,0,No
+EMP-0314,41,Female,Operations,Manager,Master,18,115100.0,4,2,3,0,No
+EMP-0315,50,Male,Marketing,Mid,Master,13,83400.0,4,1,3,0,No
+EMP-0316,25,Female,Finance,Senior,Master,8,124800.0,5,1,2,0,No
+EMP-0317,28,Female,Sales,Mid,Bachelor,7,72200.0,4,3,2,0,No
+EMP-0318,49,Female,Engineering,Senior,Master,17,112900.0,5,3,4,0,No
+EMP-0319,49,Female,Engineering,Junior,Master,15,43900.0,2,1,5,1,Yes
+EMP-0320,25,Female,Engineering,Junior,Bachelor,15,63200.0,5,4,2,1,Yes
+EMP-0321,43,Male,HR,Junior,Bachelor,1,61600.0,4,2,5,0,No
+EMP-0322,33,Female,Finance,Junior,Bachelor,14,64400.0,4,3,1,0,No
+EMP-0323,24,Female,Finance,Manager,Bachelor,5,150500.0,5,2,2,0,No
+EMP-0324,43,Female,Engineering,Junior,Bachelor,11,62000.0,5,5,2,0,No
+EMP-0325,23,Female,Operations,Director,Bachelor,16,151700.0,5,1,4,0,No
+EMP-0326,45,Male,Finance,Mid,Bachelor,2,82100.0,3,4,5,0,No
+EMP-0327,55,Female,HR,Junior,Bachelor,8,48300.0,4,5,2,0,No
+EMP-0328,48,Male,Finance,Senior,Bachelor,11,126900.0,4,5,2,0,No
+EMP-0329,22,Female,Sales,Senior,Master,18,121100.0,3,5,4,0,No
+EMP-0330,29,Male,Engineering,Mid,PhD,3,85900.0,5,1,4,0,No
+EMP-0331,44,Male,Sales,Mid,Bachelor,1,84300.0,2,3,5,0,No
+EMP-0332,59,Male,Marketing,Senior,Bachelor,11,97000.0,5,1,1,0,No
+EMP-0333,27,Male,Engineering,Junior,Bachelor,16,59700.0,5,3,1,0,No
+EMP-0334,43,Male,Engineering,Director,Master,18,157600.0,3,5,3,1,Yes
+EMP-0335,46,Female,Engineering,Director,Master,16,211100.0,4,5,2,0,No
+EMP-0336,39,Male,Engineering,Senior,PhD,10,123600.0,5,4,5,0,No
+EMP-0337,38,Female,Marketing,Junior,Bachelor,18,45600.0,4,3,2,0,No
+EMP-0338,33,Male,Finance,Senior,PhD,6,121700.0,1,5,5,1,Yes
+EMP-0339,27,Male,Sales,Junior,High School,19,51500.0,4,2,5,1,Yes
+EMP-0340,47,Female,Engineering,Junior,Master,4,47600.0,2,4,5,0,No
+EMP-0341,48,Male,Sales,Junior,High School,13,59900.0,2,1,2,0,No
+EMP-0342,29,Male,Sales,Mid,Master,14,66800.0,5,4,4,0,No
+EMP-0343,40,Male,Engineering,Manager,Bachelor,3,111200.0,4,2,2,0,No
+EMP-0344,22,Male,Sales,Senior,Master,10,93700.0,5,3,5,0,No
+EMP-0345,50,Female,Sales,Senior,Master,6,99800.0,3,1,3,0,No
+EMP-0346,56,Male,Finance,Mid,Bachelor,1,85900.0,2,1,1,1,Yes
+EMP-0347,35,Male,Finance,Mid,High School,14,89000.0,5,3,5,0,No
+EMP-0348,56,Female,Engineering,Mid,Master,8,68400.0,3,4,3,0,No
+EMP-0349,41,Female,Sales,Director,Bachelor,19,194900.0,5,5,4,0,No
+EMP-0350,34,Male,Finance,Junior,Bachelor,14,50000.0,4,4,5,0,No
+EMP-0351,59,Male,HR,Manager,Bachelor,10,159100.0,4,2,3,0,No
+EMP-0352,29,Female,Marketing,Mid,Bachelor,17,76100.0,4,5,5,0,No
+EMP-0353,41,Male,Finance,Mid,High School,9,88200.0,4,4,2,0,No
+EMP-0354,54,Female,Engineering,Senior,Bachelor,6,90200.0,1,3,3,0,No
+EMP-0355,47,Male,Engineering,Mid,High School,11,89100.0,3,2,2,0,No
+EMP-0356,42,Female,Finance,Manager,Bachelor,7,118900.0,3,2,2,1,Yes
+EMP-0357,30,Female,Engineering,Manager,Master,17,158100.0,4,2,3,0,No
+EMP-0358,45,Female,HR,Mid,PhD,1,68000.0,1,5,1,0,No
+EMP-0359,58,Male,Operations,Junior,Master,5,42700.0,4,1,3,0,No
+EMP-0360,38,Male,HR,Mid,Bachelor,9,73000.0,1,5,1,1,Yes
+EMP-0361,45,Male,Sales,Manager,PhD,18,146400.0,4,4,5,1,Yes
+EMP-0362,42,Male,Finance,Junior,Bachelor,2,47800.0,2,1,5,1,Yes
+EMP-0363,34,Female,Sales,Senior,Bachelor,11,112300.0,2,4,3,1,Yes
+EMP-0364,32,Female,HR,Senior,PhD,6,108000.0,5,1,5,0,No
+EMP-0365,40,Female,Operations,Senior,Master,8,102300.0,4,5,4,0,No
+EMP-0366,32,Male,Sales,Junior,Master,4,54400.0,3,2,2,0,No
+EMP-0367,34,Male,Operations,Senior,Master,18,96500.0,5,3,2,0,No
+EMP-0368,22,Male,Operations,Manager,Bachelor,11,145400.0,2,2,1,0,No
+EMP-0369,40,Female,Engineering,Junior,Bachelor,5,40000.0,4,5,5,0,No
+EMP-0370,33,Male,Engineering,Junior,Master,15,63100.0,5,1,1,0,No
+EMP-0371,29,Male,Engineering,Director,Bachelor,18,187700.0,4,2,2,0,No
+EMP-0372,29,Female,Engineering,Junior,Bachelor,2,58000.0,2,5,2,1,Yes
+EMP-0373,33,Female,Engineering,Manager,Master,11,147100.0,5,4,5,0,No
+EMP-0374,54,Male,Finance,Mid,Master,13,80100.0,2,3,4,1,Yes
+EMP-0375,47,Female,Engineering,Junior,Bachelor,4,49100.0,1,2,4,0,No
+EMP-0376,49,Male,Sales,Manager,Master,7,113500.0,2,1,5,0,No
+EMP-0377,26,Female,Marketing,Mid,Master,11,79900.0,4,4,5,0,No
+EMP-0378,29,Female,Engineering,Mid,Master,4,69900.0,3,5,1,0,No
+EMP-0379,46,Female,Marketing,Mid,Bachelor,15,69400.0,2,3,5,0,No
+EMP-0380,48,Male,Engineering,Mid,Bachelor,1,85400.0,3,1,4,0,No
+EMP-0381,44,Male,Engineering,Junior,Bachelor,3,58000.0,1,5,5,0,No
+EMP-0382,51,Male,Finance,Mid,Bachelor,14,69000.0,5,5,1,1,Yes
+EMP-0383,44,Female,Finance,Director,Bachelor,6,171600.0,5,2,1,0,No
+EMP-0384,41,Female,Marketing,Junior,Bachelor,18,50200.0,3,2,1,0,No
+EMP-0385,39,Female,Finance,Senior,Bachelor,1,103100.0,5,1,1,0,No
+EMP-0386,39,Female,Marketing,Mid,PhD,6,68900.0,2,5,3,0,No
+EMP-0387,23,Male,Engineering,Senior,Bachelor,6,90700.0,3,2,5,0,No
+EMP-0388,25,Male,Engineering,Junior,Master,16,50500.0,4,3,2,0,No
+EMP-0389,51,Male,Marketing,Director,Master,5,215800.0,2,3,5,0,No
+EMP-0390,54,Female,Marketing,Mid,High School,17,80300.0,2,5,3,0,No
+EMP-0391,57,Female,Operations,Junior,PhD,10,62600.0,2,2,1,0,No
+EMP-0392,39,Male,Sales,Junior,Bachelor,18,55400.0,4,1,3,0,No
+EMP-0393,58,Female,Sales,Junior,Bachelor,7,47500.0,1,1,4,1,Yes
+EMP-0394,40,Male,Marketing,Mid,Master,3,76400.0,5,1,4,0,No
+EMP-0395,49,Female,Sales,Mid,Bachelor,13,60000.0,3,3,5,0,No
+EMP-0396,41,Female,Operations,Manager,Master,15,124300.0,1,2,5,1,Yes
+EMP-0397,54,Male,Marketing,Mid,High School,19,72900.0,3,2,2,0,No
+EMP-0398,33,Male,Sales,Junior,Master,3,54500.0,5,3,2,0,No
+EMP-0399,36,Female,Marketing,Senior,Bachelor,4,114500.0,4,1,4,0,No
+EMP-0400,23,Male,Marketing,Senior,Master,5,105900.0,2,1,1,1,Yes
+EMP-0401,50,Male,Engineering,Junior,Bachelor,1,51100.0,2,5,3,1,Yes
+EMP-0402,31,Female,Operations,Junior,Master,4,45300.0,4,4,2,0,No
+EMP-0403,23,Female,HR,Junior,Master,12,51800.0,1,2,2,0,No
+EMP-0404,32,Female,Marketing,Senior,Bachelor,10,125600.0,1,2,1,1,Yes
+EMP-0405,34,Male,Sales,Senior,Master,13,120800.0,3,2,1,0,No
+EMP-0406,31,Female,Marketing,Mid,Bachelor,14,65100.0,4,4,5,1,Yes
+EMP-0407,35,Female,Sales,Manager,Master,5,114200.0,1,5,3,0,No
+EMP-0408,39,Female,Engineering,Manager,Bachelor,4,135800.0,4,4,1,0,No
+EMP-0409,30,Female,Operations,Mid,Master,14,79000.0,5,1,2,0,No
+EMP-0410,49,Female,Engineering,Manager,Master,10,126800.0,2,1,2,1,Yes
+EMP-0411,24,Male,Sales,Junior,Bachelor,17,60500.0,2,2,4,0,No
+EMP-0412,41,Female,Operations,Junior,Bachelor,10,58800.0,2,3,1,0,No
+EMP-0413,27,Female,Operations,Junior,Bachelor,7,56800.0,4,2,5,1,Yes
+EMP-0414,48,Male,HR,Junior,Master,16,45600.0,4,3,3,0,No
+EMP-0415,23,Female,Finance,Mid,Bachelor,1,66000.0,3,4,5,1,Yes
+EMP-0416,50,Female,Sales,Manager,Bachelor,17,111200.0,2,1,2,0,No
+EMP-0417,59,Male,Engineering,Junior,Master,9,46100.0,3,3,5,0,No
+EMP-0418,24,Female,Sales,Junior,Bachelor,6,51900.0,2,4,2,1,Yes
+EMP-0419,37,Male,Finance,Mid,Master,19,85500.0,3,1,2,1,Yes
+EMP-0420,51,Female,Marketing,Manager,Bachelor,13,113600.0,3,3,2,1,Yes
+EMP-0421,23,Male,Marketing,Mid,Bachelor,3,72400.0,5,2,2,0,No
+EMP-0422,38,Male,Marketing,Mid,Master,7,78900.0,3,2,2,0,No
+EMP-0423,33,Female,Engineering,Junior,High School,9,44900.0,4,2,4,0,No
+EMP-0424,56,Male,Sales,Junior,Bachelor,5,57400.0,3,4,5,0,No
+EMP-0425,22,Male,Engineering,Director,Master,10,184600.0,2,2,4,1,Yes
+EMP-0426,36,Female,HR,Director,Bachelor,17,167100.0,3,5,4,0,No
+EMP-0427,47,Female,Sales,Junior,PhD,12,56400.0,1,1,1,0,No
+EMP-0428,58,Male,Marketing,Director,PhD,16,150400.0,2,4,1,0,No
+EMP-0429,42,Female,Sales,Senior,Bachelor,3,118800.0,1,2,1,1,Yes
+EMP-0430,52,Male,Engineering,Manager,High School,9,148500.0,2,1,3,1,Yes
+EMP-0431,46,Male,Engineering,Mid,Master,15,63200.0,4,3,1,0,No
+EMP-0432,44,Female,Marketing,Mid,Bachelor,5,72800.0,4,2,5,0,No
+EMP-0433,45,Female,Finance,Mid,Bachelor,13,65300.0,4,1,4,0,No
+EMP-0434,59,Male,Engineering,Senior,Master,14,128100.0,1,5,5,0,No
+EMP-0435,49,Female,Engineering,Junior,High School,15,52900.0,5,3,1,0,No
+EMP-0436,42,Female,Finance,Junior,Master,16,41300.0,2,5,3,0,No
+EMP-0437,39,Male,Engineering,Mid,Bachelor,13,67500.0,4,1,3,0,No
+EMP-0438,57,Male,Marketing,Senior,Bachelor,17,123200.0,2,5,4,0,No
+EMP-0439,56,Male,Finance,Junior,Bachelor,8,51400.0,1,1,5,0,No
+EMP-0440,30,Male,Engineering,Senior,PhD,2,121100.0,5,1,2,0,No
+EMP-0441,59,Male,Engineering,Director,Master,5,196700.0,1,5,5,0,No
+EMP-0442,51,Male,Operations,Junior,Master,6,64700.0,2,1,1,1,Yes
+EMP-0443,55,Female,Sales,Senior,Bachelor,12,111800.0,5,2,2,0,No
+EMP-0444,53,Male,Sales,Mid,Bachelor,18,88500.0,5,1,3,0,No
+EMP-0445,24,Female,Marketing,Manager,Bachelor,1,154600.0,1,4,4,0,No
+EMP-0446,24,Female,Operations,Junior,Bachelor,17,55300.0,4,1,4,0,No
+EMP-0447,49,Male,Operations,Senior,Bachelor,11,117400.0,2,4,3,1,Yes
+EMP-0448,36,Female,Marketing,Manager,Master,10,135200.0,3,1,1,0,No
+EMP-0449,44,Male,Sales,Manager,Bachelor,19,151500.0,3,1,3,0,No
+EMP-0450,32,Female,Engineering,Senior,PhD,14,109700.0,1,5,1,0,No
+EMP-0451,53,Male,Marketing,Mid,Bachelor,10,86900.0,2,2,2,1,Yes
+EMP-0452,57,Male,HR,Senior,PhD,15,118500.0,2,2,3,0,No
+EMP-0453,54,Male,Sales,Manager,High School,19,133700.0,1,3,1,0,No
+EMP-0454,45,Male,Operations,Mid,Bachelor,4,67800.0,2,5,2,1,Yes
+EMP-0455,55,Female,Engineering,Junior,Bachelor,2,46200.0,4,5,3,0,No
+EMP-0456,49,Female,Sales,Manager,Bachelor,9,141900.0,1,2,4,0,No
+EMP-0457,58,Female,Engineering,Senior,Bachelor,10,119500.0,4,5,3,0,No
+EMP-0458,28,Female,Sales,Senior,Bachelor,11,108500.0,2,2,5,0,No
+EMP-0459,25,Female,Engineering,Junior,Bachelor,14,55700.0,1,5,3,0,No
+EMP-0460,58,Male,Engineering,Senior,Master,7,97400.0,2,1,5,0,No
+EMP-0461,22,Male,Engineering,Mid,Master,15,62300.0,1,2,2,1,Yes
+EMP-0462,22,Male,Finance,Senior,Master,19,97900.0,2,2,3,0,No
+EMP-0463,41,Male,Finance,Junior,Bachelor,15,46800.0,4,4,2,0,No
+EMP-0464,40,Male,HR,Senior,Master,8,99400.0,4,5,2,1,Yes
+EMP-0465,50,Female,Operations,Director,Bachelor,11,187800.0,2,5,1,0,No
+EMP-0466,31,Male,Sales,Junior,Bachelor,9,43500.0,1,2,2,0,No
+EMP-0467,39,Male,Engineering,Director,Bachelor,15,166200.0,3,1,2,0,No
+EMP-0468,49,Female,Marketing,Mid,Bachelor,1,80800.0,4,1,3,1,Yes
+EMP-0469,56,Female,Engineering,Manager,Bachelor,1,145300.0,4,1,3,1,Yes
+EMP-0470,52,Male,Operations,Senior,Bachelor,19,87900.0,3,5,4,0,No
+EMP-0471,48,Male,Engineering,Mid,Bachelor,3,72200.0,2,4,1,0,No
+EMP-0472,32,Female,Operations,Senior,Master,10,109400.0,1,2,2,1,Yes
+EMP-0473,59,Male,Engineering,Manager,Master,8,130800.0,2,3,1,0,No
+EMP-0474,26,Male,Marketing,Mid,PhD,15,66200.0,5,4,5,0,No
+EMP-0475,29,Male,HR,Mid,Master,10,72600.0,4,3,2,0,No
+EMP-0476,55,Female,Operations,Senior,High School,1,125700.0,5,4,1,0,No
+EMP-0477,33,Male,Engineering,Manager,Master,18,139200.0,4,1,4,0,No
+EMP-0478,59,Male,HR,Senior,Master,2,116300.0,4,5,4,0,No
+EMP-0479,22,Female,Operations,Senior,Bachelor,19,123600.0,5,3,2,0,No
+EMP-0480,52,Female,HR,Mid,Bachelor,13,83000.0,5,4,5,0,No
+EMP-0481,25,Female,Finance,Manager,PhD,1,129000.0,2,5,4,1,Yes
+EMP-0482,26,Male,Finance,Junior,Bachelor,2,40100.0,5,3,4,1,Yes
+EMP-0483,51,Female,Sales,Mid,PhD,16,70600.0,2,2,5,0,No
+EMP-0484,45,Male,Finance,Junior,High School,15,58800.0,2,4,1,0,No
+EMP-0485,24,Female,HR,Mid,Bachelor,13,85600.0,2,2,4,0,No
+EMP-0486,32,Male,Operations,Mid,Bachelor,16,88600.0,4,1,3,0,No
+EMP-0487,25,Female,Engineering,Mid,Bachelor,17,72600.0,4,2,4,0,No
+EMP-0488,47,Male,Engineering,Senior,Master,7,118600.0,5,2,1,0,No
+EMP-0489,48,Male,Operations,Mid,PhD,17,76400.0,4,4,1,0,No
+EMP-0490,48,Female,Marketing,Mid,Bachelor,7,78100.0,5,1,2,0,No
+EMP-0491,27,Female,Sales,Junior,High School,13,45500.0,4,2,3,0,No
+EMP-0492,36,Male,Finance,Mid,Master,5,66600.0,1,5,1,0,No
+EMP-0493,51,Female,Engineering,Junior,Master,17,50900.0,1,3,5,0,No
+EMP-0494,58,Male,Engineering,Junior,Bachelor,3,40700.0,5,2,3,0,No
+EMP-0495,58,Female,Sales,Senior,Bachelor,7,100100.0,4,1,3,0,No
+EMP-0496,58,Female,Sales,Senior,Master,17,115600.0,4,2,5,0,No
+EMP-0497,56,Male,HR,Senior,Master,7,103200.0,2,3,4,0,No
+EMP-0498,44,Female,Engineering,Mid,Bachelor,1,65000.0,3,1,5,1,Yes
+EMP-0499,27,Female,Operations,Mid,Bachelor,17,74000.0,5,4,5,0,No
+EMP-0500,25,Male,Operations,Manager,PhD,17,116400.0,3,1,4,0,No
+EMP-0501,39,Male,Finance,Mid,Master,11,78700.0,3,4,4,0,No
+EMP-0502,30,Female,HR,Mid,Bachelor,3,60800.0,5,1,4,0,No
+EMP-0503,50,Male,Sales,Junior,Bachelor,15,49900.0,4,3,4,0,No
+EMP-0504,34,Female,Marketing,Mid,Master,11,76900.0,5,3,4,0,No
+EMP-0505,38,Female,Finance,Mid,Bachelor,16,60800.0,3,1,5,0,No
+EMP-0506,53,Male,Engineering,Mid,Bachelor,9,79300.0,4,2,2,0,No
+EMP-0507,43,Male,Operations,Mid,Bachelor,1,64100.0,1,3,2,0,No
+EMP-0508,25,Male,Marketing,Mid,Bachelor,16,73900.0,5,4,1,0,No
+EMP-0509,26,Male,Operations,Senior,Master,9,87300.0,5,4,2,0,No
+EMP-0510,58,Male,Finance,Senior,Bachelor,19,102100.0,4,5,2,0,No
+EMP-0511,34,Male,Finance,Manager,Master,12,120600.0,1,4,5,0,No
+EMP-0512,55,Female,Sales,Senior,Bachelor,19,99700.0,1,5,4,1,Yes
+EMP-0513,43,Female,Operations,Director,High School,9,203300.0,4,1,4,0,No
+EMP-0514,44,Male,Marketing,Junior,Bachelor,7,49500.0,2,1,5,1,Yes
+EMP-0515,24,Female,Engineering,Junior,PhD,14,58800.0,5,1,2,0,No
+EMP-0516,55,Female,Engineering,Junior,Master,19,60800.0,5,2,5,0,No
+EMP-0517,53,Female,Sales,Senior,Bachelor,19,96400.0,3,2,1,0,No
+EMP-0518,42,Female,Marketing,Manager,Master,2,114100.0,4,5,4,0,No
+EMP-0519,42,Male,Operations,Junior,Master,9,40500.0,3,4,3,0,No
+EMP-0520,32,Female,Engineering,Manager,PhD,13,137000.0,3,4,1,0,No
+EMP-0521,25,Female,HR,Junior,Bachelor,15,65000.0,1,1,1,0,No
+EMP-0522,22,Male,Sales,Manager,Master,3,127500.0,5,3,5,0,No
+EMP-0523,49,Male,Operations,Mid,High School,11,79500.0,3,2,2,0,No
+EMP-0524,45,Male,Marketing,Junior,Bachelor,14,59500.0,1,2,4,1,Yes
+EMP-0525,56,Male,Marketing,Mid,PhD,8,79600.0,4,1,3,0,No
+EMP-0526,34,Female,Sales,Junior,Bachelor,18,58900.0,3,2,1,0,No
+EMP-0527,55,Male,Sales,Junior,Bachelor,19,63700.0,5,1,3,0,No
+EMP-0528,32,Female,Engineering,Mid,Bachelor,16,66000.0,3,5,2,0,No
+EMP-0529,57,Female,Engineering,Manager,Master,2,111000.0,4,4,2,1,Yes
+EMP-0530,38,Male,Marketing,Mid,Master,8,64600.0,3,3,3,0,No
+EMP-0531,56,Male,Marketing,Mid,Bachelor,6,63800.0,5,4,4,1,Yes
+EMP-0532,39,Male,Operations,Senior,PhD,12,115100.0,1,4,2,0,No
+EMP-0533,43,Male,Operations,Senior,High School,15,110400.0,5,5,3,0,No
+EMP-0534,45,Male,HR,Junior,Bachelor,8,45400.0,1,2,1,1,Yes
+EMP-0535,40,Male,Marketing,Mid,PhD,4,81000.0,2,3,3,1,Yes
+EMP-0536,58,Female,Operations,Junior,Bachelor,15,59200.0,5,2,3,0,No
+EMP-0537,42,Female,Marketing,Junior,Bachelor,17,44200.0,5,4,5,0,No
+EMP-0538,29,Female,Engineering,Senior,Bachelor,13,112300.0,4,1,2,0,No
+EMP-0539,49,Female,Sales,Junior,Master,18,58700.0,3,4,4,0,No
+EMP-0540,26,Male,Engineering,Mid,Bachelor,2,63400.0,1,2,4,0,No
+EMP-0541,38,Male,Operations,Senior,PhD,13,121900.0,1,4,5,0,No
+EMP-0542,58,Female,Finance,Junior,Master,13,64100.0,4,1,4,0,No
+EMP-0543,57,Female,Engineering,Mid,Bachelor,15,63200.0,4,5,3,0,No
+EMP-0544,40,Female,Finance,Junior,Master,10,40600.0,3,2,5,0,No
+EMP-0545,48,Male,Finance,Director,Bachelor,3,171800.0,3,4,1,0,No
+EMP-0546,55,Male,Sales,Mid,Bachelor,19,80300.0,5,2,2,0,No
+EMP-0547,32,Male,Engineering,Manager,Master,3,157900.0,2,5,2,0,No
+EMP-0548,33,Female,Finance,Mid,PhD,14,71900.0,3,4,2,0,No
+EMP-0549,42,Female,HR,Junior,Bachelor,8,57900.0,4,4,3,0,No
+EMP-0550,32,Male,Marketing,Senior,Bachelor,4,88400.0,3,2,1,0,No
+EMP-0551,49,Male,HR,Director,Bachelor,11,198300.0,1,2,5,0,No
+EMP-0552,26,Female,Marketing,Senior,Bachelor,11,113200.0,2,1,5,1,Yes
+EMP-0553,38,Female,HR,Manager,Bachelor,11,115100.0,5,5,2,0,No
+EMP-0554,41,Male,HR,Manager,High School,2,148600.0,1,1,1,1,Yes
+EMP-0555,33,Female,Marketing,Junior,Master,17,61300.0,1,4,1,1,Yes
+EMP-0556,27,Male,Sales,Junior,Bachelor,9,55000.0,2,2,1,0,No
+EMP-0557,38,Male,Engineering,Senior,Bachelor,2,90400.0,5,4,4,0,No
+EMP-0558,40,Female,Engineering,Mid,Master,15,89500.0,4,4,4,0,No
+EMP-0559,47,Female,Marketing,Manager,Master,16,149100.0,5,3,2,0,No
+EMP-0560,53,Female,Finance,Manager,Bachelor,4,127400.0,3,3,1,0,No
+EMP-0561,27,Male,Finance,Mid,Bachelor,8,72900.0,1,4,1,0,No
+EMP-0562,57,Female,Engineering,Junior,Master,9,49300.0,3,2,5,0,No
+EMP-0563,59,Female,Engineering,Senior,Bachelor,5,107800.0,4,4,5,1,Yes
+EMP-0564,32,Male,Engineering,Junior,Bachelor,16,48500.0,3,3,2,0,No
+EMP-0565,54,Male,Sales,Manager,Master,13,152500.0,5,2,1,0,No
+EMP-0566,45,Female,HR,Mid,High School,7,84700.0,3,4,2,0,No
+EMP-0567,44,Male,Sales,Senior,High School,17,89700.0,4,5,5,0,No
+EMP-0568,36,Male,Sales,Junior,High School,3,64000.0,4,5,5,0,No
+EMP-0569,48,Male,Operations,Senior,Bachelor,5,113600.0,4,4,4,0,No
+EMP-0570,32,Female,Sales,Mid,High School,19,84900.0,5,2,2,1,Yes
+EMP-0571,38,Female,HR,Mid,PhD,12,81200.0,4,4,2,0,No
+EMP-0572,35,Male,Marketing,Junior,Bachelor,7,50900.0,1,4,1,1,Yes
+EMP-0573,48,Male,Sales,Senior,Bachelor,9,118000.0,4,3,1,0,No
+EMP-0574,39,Male,Finance,Manager,Bachelor,6,158300.0,3,5,4,0,No
+EMP-0575,49,Female,Marketing,Junior,PhD,17,46800.0,3,3,3,0,No
+EMP-0576,25,Male,Operations,Junior,Bachelor,16,60200.0,3,3,3,0,No
+EMP-0577,28,Male,Engineering,Junior,Bachelor,3,53500.0,5,4,3,0,No
+EMP-0578,56,Female,Operations,Senior,Master,4,106800.0,3,3,2,1,Yes
+EMP-0579,30,Male,Sales,Senior,Bachelor,10,104600.0,5,5,2,0,No
+EMP-0580,29,Female,Engineering,Mid,Bachelor,5,81900.0,5,3,5,0,No
+EMP-0581,38,Female,Sales,Junior,Bachelor,10,46700.0,4,5,2,1,Yes
+EMP-0582,38,Female,Operations,Mid,Bachelor,12,85600.0,1,3,2,0,No
+EMP-0583,54,Male,Sales,Mid,Bachelor,10,84900.0,4,5,2,0,No
+EMP-0584,53,Male,Sales,Mid,Master,13,62600.0,4,3,4,0,No
+EMP-0585,29,Female,Finance,Director,Bachelor,11,211700.0,5,3,2,0,No
+EMP-0586,40,Male,Engineering,Junior,Bachelor,16,46100.0,5,2,1,0,No
+EMP-0587,59,Female,Engineering,Senior,High School,8,105900.0,3,5,1,0,No
+EMP-0588,24,Male,Engineering,Mid,Bachelor,8,78300.0,3,5,5,0,No
+EMP-0589,26,Female,Engineering,Mid,Bachelor,8,71400.0,4,5,4,0,No
+EMP-0590,34,Female,Engineering,Senior,PhD,13,86300.0,2,1,1,0,No
+EMP-0591,52,Male,Engineering,Senior,Bachelor,2,123300.0,2,3,4,0,No
+EMP-0592,37,Male,Finance,Director,Master,12,162700.0,3,5,4,0,No
+EMP-0593,53,Male,Engineering,Junior,Bachelor,10,45300.0,2,1,5,1,Yes
+EMP-0594,43,Male,Sales,Junior,Bachelor,12,59900.0,3,2,4,0,No
+EMP-0595,50,Female,Marketing,Senior,High School,11,100300.0,5,5,2,0,No
+EMP-0596,43,Female,Sales,Mid,Bachelor,15,86400.0,4,5,4,0,No
+EMP-0597,24,Male,Finance,Junior,Bachelor,16,57500.0,1,1,5,1,Yes
+EMP-0598,31,Male,Engineering,Junior,Bachelor,17,46900.0,4,3,5,0,No
+EMP-0599,42,Female,Engineering,Junior,Master,2,40300.0,3,2,5,0,No
+EMP-0600,37,Male,Engineering,Manager,High School,18,157400.0,3,5,1,0,No
+EMP-0601,33,Male,Engineering,Junior,Bachelor,12,42100.0,4,3,2,0,No
+EMP-0602,23,Male,Engineering,Mid,Bachelor,19,81600.0,3,2,1,1,Yes
+EMP-0603,45,Male,Engineering,Junior,Bachelor,18,52200.0,2,4,3,0,No
+EMP-0604,56,Female,Engineering,Mid,Bachelor,17,82700.0,2,4,2,0,No
+EMP-0605,51,Female,Engineering,Junior,Bachelor,6,57300.0,3,2,4,0,No
+EMP-0606,51,Male,Sales,Mid,Bachelor,15,79400.0,3,1,5,0,No
+EMP-0607,56,Female,Engineering,Junior,Master,3,52300.0,2,2,3,0,No
+EMP-0608,40,Male,Sales,Manager,Master,6,149600.0,3,2,2,1,Yes
+EMP-0609,29,Male,HR,Junior,Bachelor,3,42300.0,3,1,1,0,No
+EMP-0610,47,Male,Finance,Mid,High School,1,66600.0,4,1,5,1,Yes
+EMP-0611,28,Female,Engineering,Manager,Master,13,144600.0,1,3,1,0,No
+EMP-0612,51,Female,Marketing,Senior,Bachelor,14,98800.0,2,3,2,0,No
+EMP-0613,28,Female,Finance,Mid,Bachelor,13,77400.0,4,1,2,0,No
+EMP-0614,24,Female,Engineering,Mid,Bachelor,4,74200.0,1,4,3,0,No
+EMP-0615,22,Female,Marketing,Mid,Bachelor,7,75900.0,3,4,4,0,No
+EMP-0616,57,Male,Operations,Senior,Bachelor,10,104100.0,3,2,1,1,Yes
+EMP-0617,46,Male,Engineering,Director,Bachelor,7,202200.0,4,5,3,0,No
+EMP-0618,58,Female,Engineering,Senior,Bachelor,15,99900.0,3,2,5,0,No
+EMP-0619,22,Female,Marketing,Mid,Bachelor,15,81100.0,5,2,4,0,No
+EMP-0620,36,Female,Finance,Senior,Master,4,97200.0,4,5,3,1,Yes
+EMP-0621,58,Male,Engineering,Mid,Bachelor,6,67500.0,1,1,1,0,No
+EMP-0622,34,Female,Engineering,Junior,High School,5,43000.0,4,4,2,0,No
+EMP-0623,29,Male,Sales,Mid,Bachelor,12,65800.0,2,2,5,0,No
+EMP-0624,26,Male,Sales,Director,Master,1,158400.0,4,5,1,1,Yes
+EMP-0625,30,Female,Finance,Junior,Master,8,53400.0,3,3,4,0,No
+EMP-0626,22,Male,Sales,Senior,Master,1,119300.0,3,2,4,0,No
+EMP-0627,57,Male,Sales,Junior,Bachelor,5,44600.0,5,4,2,1,Yes
+EMP-0628,56,Female,Finance,Mid,Master,6,66500.0,5,1,2,0,No
+EMP-0629,23,Male,Engineering,Junior,Master,3,52100.0,5,2,5,0,No
+EMP-0630,44,Female,Engineering,Mid,High School,15,81700.0,1,2,5,0,No
+EMP-0631,30,Male,Finance,Senior,Bachelor,5,128900.0,5,5,2,1,Yes
+EMP-0632,55,Female,Marketing,Mid,Bachelor,14,75700.0,1,3,2,0,No
+EMP-0633,35,Female,HR,Senior,Master,18,97700.0,5,3,4,1,Yes
+EMP-0634,25,Male,HR,Senior,Bachelor,16,89500.0,1,1,2,1,Yes
+EMP-0635,51,Female,Engineering,Manager,Bachelor,6,119700.0,4,4,3,0,No
+EMP-0636,52,Male,Sales,Junior,PhD,14,45700.0,4,1,1,1,Yes
+EMP-0637,59,Male,HR,Mid,Master,8,65400.0,3,2,2,0,No
+EMP-0638,32,Female,Engineering,Junior,PhD,7,40400.0,1,2,5,0,No
+EMP-0639,56,Male,Engineering,Director,PhD,8,187400.0,2,3,3,0,No
+EMP-0640,29,Female,Sales,Manager,High School,13,123700.0,3,4,5,0,No
+EMP-0641,24,Male,Engineering,Mid,Master,6,89200.0,4,5,3,0,No
+EMP-0642,35,Male,Sales,Manager,Bachelor,18,137700.0,1,4,2,0,No
+EMP-0643,34,Female,Engineering,Mid,Master,2,80900.0,5,2,1,0,No
+EMP-0644,53,Male,Sales,Senior,Bachelor,8,90700.0,2,5,5,1,Yes
+EMP-0645,55,Male,Engineering,Junior,PhD,11,61700.0,4,4,3,0,No
+EMP-0646,40,Male,Marketing,Senior,Master,1,107100.0,3,4,4,1,Yes
+EMP-0647,59,Male,HR,Junior,Master,6,61800.0,1,5,2,0,No
+EMP-0648,37,Male,Finance,Manager,High School,16,138700.0,2,2,1,0,No
+EMP-0649,23,Male,Marketing,Senior,Bachelor,12,106100.0,1,4,2,0,No
+EMP-0650,38,Male,Sales,Senior,Master,11,104800.0,5,5,4,0,No
+EMP-0651,55,Male,Engineering,Junior,High School,10,44600.0,3,2,1,0,No
+EMP-0652,37,Female,HR,Mid,Master,3,61500.0,1,5,4,1,Yes
+EMP-0653,59,Male,HR,Junior,High School,13,63500.0,4,5,2,1,Yes
+EMP-0654,23,Male,Finance,Mid,Master,3,74300.0,3,4,3,1,Yes
+EMP-0655,23,Female,Sales,Junior,Bachelor,15,60600.0,4,2,2,0,No
+EMP-0656,47,Female,Engineering,Manager,Master,16,130000.0,1,4,2,1,Yes
+EMP-0657,34,Female,Engineering,Mid,Master,13,62200.0,3,1,2,0,No
+EMP-0658,52,Male,Sales,Mid,Bachelor,17,78900.0,4,1,5,0,No
+EMP-0659,55,Female,Finance,Mid,Bachelor,3,61600.0,5,2,4,1,Yes
+EMP-0660,24,Female,HR,Mid,High School,11,64500.0,5,5,4,0,No
+EMP-0661,29,Male,Sales,Senior,Bachelor,19,110300.0,1,4,4,0,No
+EMP-0662,44,Male,Operations,Mid,Bachelor,11,69100.0,3,4,5,0,No
+EMP-0663,35,Female,Finance,Manager,Master,16,159700.0,2,2,3,0,No
+EMP-0664,48,Female,Engineering,Mid,Bachelor,3,63600.0,3,2,2,0,No
+EMP-0665,50,Male,Engineering,Director,Bachelor,6,203500.0,5,1,3,0,No
+EMP-0666,22,Male,Engineering,Manager,Bachelor,14,140300.0,4,3,5,1,Yes
+EMP-0667,38,Male,Engineering,Junior,High School,18,59800.0,2,2,4,0,No
+EMP-0668,51,Male,Engineering,Manager,Bachelor,17,121300.0,1,3,2,0,No
+EMP-0669,34,Male,Engineering,Junior,PhD,4,53100.0,2,2,1,0,No
+EMP-0670,42,Female,Engineering,Manager,Master,15,132500.0,1,5,1,0,No
+EMP-0671,40,Male,Engineering,Mid,Bachelor,11,73300.0,2,5,3,0,No
+EMP-0672,40,Male,Marketing,Manager,Bachelor,3,153000.0,1,1,4,1,Yes
+EMP-0673,46,Male,Engineering,Manager,Master,3,159500.0,1,1,1,1,Yes
+EMP-0674,43,Male,HR,Manager,Bachelor,16,125300.0,2,3,3,1,Yes
+EMP-0675,52,Male,Sales,Senior,High School,5,112900.0,2,2,5,1,Yes
+EMP-0676,38,Female,Operations,Mid,High School,10,78300.0,1,4,3,1,Yes
+EMP-0677,44,Male,Engineering,Junior,Bachelor,19,58500.0,5,1,3,0,No
+EMP-0678,53,Female,Sales,Mid,PhD,4,88400.0,2,4,3,1,Yes
+EMP-0679,31,Male,Operations,Junior,Master,19,45200.0,3,4,2,0,No
+EMP-0680,31,Female,Marketing,Senior,High School,11,94500.0,4,2,3,0,No
+EMP-0681,57,Female,Marketing,Mid,Bachelor,2,79800.0,1,3,3,0,No
+EMP-0682,29,Male,Engineering,Director,Master,10,161000.0,1,2,2,0,No
+EMP-0683,41,Male,Engineering,Senior,Master,11,92800.0,4,1,2,0,No
+EMP-0684,53,Male,Finance,Manager,Master,16,113800.0,5,4,5,1,Yes
+EMP-0685,35,Male,Operations,Junior,Master,19,40100.0,4,2,4,0,No
+EMP-0686,49,Male,HR,Manager,High School,11,132500.0,2,2,1,0,No
+EMP-0687,45,Female,HR,Manager,Master,14,139700.0,4,2,1,0,No
+EMP-0688,36,Male,Engineering,Mid,Master,2,68700.0,1,1,3,0,No
+EMP-0689,43,Male,Marketing,Senior,Bachelor,5,95400.0,4,3,5,0,No
+EMP-0690,51,Female,Engineering,Senior,Master,5,116800.0,3,2,3,0,No
+EMP-0691,25,Male,Sales,Junior,Bachelor,19,57600.0,2,1,1,0,No
+EMP-0692,34,Female,Sales,Mid,High School,12,73600.0,4,4,2,0,No
+EMP-0693,44,Male,HR,Mid,Bachelor,18,80600.0,1,5,4,1,Yes
+EMP-0694,29,Female,Engineering,Junior,Bachelor,4,63100.0,2,1,5,1,Yes
+EMP-0695,39,Male,Engineering,Mid,Bachelor,17,83600.0,1,5,2,0,No
+EMP-0696,33,Female,Finance,Junior,Bachelor,10,55600.0,5,2,4,0,No
+EMP-0697,52,Female,Engineering,Junior,Bachelor,6,56500.0,3,2,5,0,No
+EMP-0698,35,Male,HR,Junior,Bachelor,14,63300.0,5,1,5,0,No
+EMP-0699,55,Male,Engineering,Director,Bachelor,11,179800.0,3,5,1,0,No
+EMP-0700,39,Male,Sales,Mid,High School,11,76300.0,4,2,2,0,No
+EMP-0701,55,Female,HR,Director,Master,18,195300.0,2,4,5,0,No
+EMP-0702,32,Female,Engineering,Mid,Bachelor,18,87300.0,4,3,5,0,No
+EMP-0703,33,Female,Sales,Mid,Bachelor,11,84800.0,3,3,4,0,No
+EMP-0704,36,Male,Engineering,Mid,Master,12,62100.0,3,2,1,0,No
+EMP-0705,52,Male,Engineering,Mid,Master,5,65000.0,3,5,3,1,Yes
+EMP-0706,50,Female,Operations,Junior,Master,9,47700.0,1,2,1,1,Yes
+EMP-0707,47,Male,Sales,Senior,Bachelor,9,118700.0,2,5,3,1,Yes
+EMP-0708,39,Female,Marketing,Junior,Bachelor,10,54200.0,4,4,2,0,No
+EMP-0709,53,Male,Engineering,Senior,Master,19,98000.0,4,5,2,0,No
+EMP-0710,43,Male,Finance,Senior,Bachelor,1,90600.0,5,2,5,1,Yes
+EMP-0711,59,Female,Marketing,Junior,Bachelor,7,57200.0,3,4,2,1,Yes
+EMP-0712,38,Male,HR,Junior,High School,4,57500.0,3,1,5,0,No
+EMP-0713,44,Male,Sales,Senior,Master,1,127400.0,3,3,1,1,Yes
+EMP-0714,45,Male,Sales,Mid,Bachelor,15,75000.0,4,2,2,0,No
+EMP-0715,29,Male,Sales,Junior,PhD,8,52300.0,5,2,1,0,No
+EMP-0716,27,Male,Operations,Director,Master,12,155600.0,1,2,1,0,No
+EMP-0717,26,Female,Marketing,Junior,Bachelor,18,41000.0,2,4,2,0,No
+EMP-0718,50,Male,Operations,Senior,Master,15,104400.0,1,1,1,1,Yes
+EMP-0719,49,Female,Engineering,Director,Master,17,172600.0,4,5,2,0,No
+EMP-0720,32,Male,Finance,Junior,Master,14,46300.0,3,1,2,0,No
+EMP-0721,22,Male,Operations,Junior,Bachelor,14,42300.0,2,4,2,1,Yes
+EMP-0722,40,Female,Engineering,Junior,Master,18,64000.0,4,2,3,0,No
+EMP-0723,30,Female,Engineering,Mid,Bachelor,18,85100.0,4,3,1,0,No
+EMP-0724,48,Male,Finance,Junior,PhD,16,54400.0,4,2,4,0,No
+EMP-0725,55,Male,HR,Senior,Bachelor,1,127800.0,2,5,2,0,No
+EMP-0726,25,Female,Marketing,Junior,Bachelor,11,65000.0,2,3,1,0,No
+EMP-0727,57,Female,Engineering,Mid,Master,15,80200.0,5,2,5,1,Yes
+EMP-0728,39,Female,Marketing,Director,Master,12,168900.0,5,3,2,0,No
+EMP-0729,36,Female,Engineering,Manager,Bachelor,8,112000.0,1,1,2,0,No
+EMP-0730,34,Male,Engineering,Senior,Bachelor,6,119000.0,2,4,4,0,No
+EMP-0731,40,Male,Engineering,Mid,Bachelor,3,74100.0,2,2,3,0,No
+EMP-0732,27,Male,Marketing,Senior,PhD,13,114300.0,2,5,3,1,Yes
+EMP-0733,33,Male,Finance,Mid,Master,13,87500.0,5,1,2,0,No
+EMP-0734,58,Male,HR,Mid,Master,2,65400.0,4,2,1,0,No
+EMP-0735,38,Female,Sales,Junior,High School,5,54600.0,3,1,5,0,No
+EMP-0736,44,Female,Marketing,Manager,Bachelor,17,141700.0,5,5,5,0,No
+EMP-0737,47,Female,Sales,Mid,Master,6,74800.0,2,2,1,0,No
+EMP-0738,50,Male,Marketing,Junior,Master,2,42300.0,5,5,2,0,No
+EMP-0739,54,Female,Sales,Mid,High School,4,70400.0,1,3,5,1,Yes
+EMP-0740,48,Male,Sales,Mid,Master,11,70000.0,2,5,3,1,Yes
+EMP-0741,46,Male,Sales,Manager,Bachelor,8,143500.0,1,3,1,1,Yes
+EMP-0742,31,Male,Sales,Senior,Bachelor,12,123600.0,2,2,4,0,No
+EMP-0743,44,Female,Finance,Senior,Bachelor,8,99800.0,5,3,2,0,No
+EMP-0744,42,Male,HR,Junior,Bachelor,11,57300.0,4,2,1,0,No
+EMP-0745,42,Male,Engineering,Mid,Bachelor,8,68600.0,3,2,5,0,No
+EMP-0746,34,Female,Marketing,Mid,High School,8,88400.0,1,4,2,1,Yes
+EMP-0747,58,Male,Sales,Junior,Bachelor,17,60300.0,5,2,3,0,No
+EMP-0748,54,Female,HR,Junior,Master,16,53800.0,4,3,2,0,No
+EMP-0749,45,Male,Operations,Senior,Bachelor,14,105500.0,5,4,2,1,Yes
+EMP-0750,32,Female,Finance,Junior,Bachelor,11,47900.0,1,4,3,1,Yes
+EMP-0751,38,Male,Engineering,Mid,Bachelor,7,69700.0,3,2,3,0,No
+EMP-0752,25,Male,Operations,Junior,Bachelor,16,64300.0,5,5,2,0,No
+EMP-0753,46,Female,Finance,Junior,Master,13,50100.0,2,5,3,0,No
+EMP-0754,51,Male,Sales,Junior,Bachelor,15,52900.0,4,4,1,0,No
+EMP-0755,30,Female,Engineering,Director,Master,16,219200.0,5,2,3,0,No
+EMP-0756,42,Male,Marketing,Manager,Master,9,142900.0,4,5,3,0,No
+EMP-0757,41,Female,Finance,Director,Bachelor,3,188000.0,2,2,2,1,Yes
+EMP-0758,40,Male,HR,Mid,Bachelor,19,72400.0,3,2,1,0,No
+EMP-0759,40,Male,Marketing,Junior,Bachelor,5,44700.0,3,4,4,0,No
+EMP-0760,33,Male,Marketing,Mid,Bachelor,10,70900.0,2,4,4,0,No
+EMP-0761,58,Female,Engineering,Mid,Master,17,82700.0,4,1,5,0,No
+EMP-0762,38,Female,Sales,Manager,Bachelor,15,141300.0,5,5,3,0,No
+EMP-0763,58,Female,Engineering,Junior,Bachelor,8,59000.0,2,5,3,0,No
+EMP-0764,49,Female,Finance,Mid,Bachelor,15,66100.0,1,5,1,0,No
+EMP-0765,56,Female,Engineering,Junior,Bachelor,14,53700.0,4,3,4,0,No
+EMP-0766,39,Male,HR,Mid,Bachelor,7,87800.0,3,2,5,0,No
+EMP-0767,35,Male,Marketing,Senior,Bachelor,12,104700.0,2,4,1,0,No
+EMP-0768,56,Male,Marketing,Mid,Bachelor,17,80900.0,3,5,3,0,No
+EMP-0769,28,Male,Sales,Mid,Bachelor,17,63600.0,4,1,4,0,No
+EMP-0770,34,Male,Marketing,Mid,Master,10,89200.0,3,5,5,0,No
+EMP-0771,39,Female,Engineering,Mid,Master,19,78300.0,2,2,2,0,No
+EMP-0772,58,Male,Marketing,Senior,Bachelor,14,95800.0,4,2,4,0,No
+EMP-0773,34,Female,Engineering,Manager,Bachelor,11,117900.0,1,4,5,1,Yes
+EMP-0774,57,Male,Sales,Director,PhD,2,188600.0,2,3,1,0,No
+EMP-0775,52,Female,Marketing,Senior,Bachelor,18,109900.0,5,4,2,0,No
+EMP-0776,23,Female,Engineering,Mid,Bachelor,7,62800.0,2,5,5,0,No
+EMP-0777,37,Female,Engineering,Senior,High School,12,129700.0,4,1,5,0,No
+EMP-0778,30,Male,Finance,Mid,Master,2,87400.0,2,4,3,0,No
+EMP-0779,30,Male,Finance,Junior,High School,18,51500.0,1,3,4,1,Yes
+EMP-0780,59,Male,Finance,Manager,PhD,6,115900.0,1,4,3,1,Yes
+EMP-0781,32,Male,Finance,Junior,Master,10,60800.0,5,2,2,0,No
+EMP-0782,43,Female,HR,Manager,Master,15,134900.0,3,5,5,0,No
+EMP-0783,54,Female,Engineering,Mid,Master,5,81500.0,4,5,3,1,Yes
+EMP-0784,57,Female,Sales,Senior,Bachelor,3,107900.0,4,5,4,0,No
+EMP-0785,44,Female,Engineering,Senior,Bachelor,5,97300.0,3,5,2,0,No
+EMP-0786,55,Male,Operations,Manager,Master,8,151700.0,1,5,1,0,No
+EMP-0787,30,Female,HR,Senior,PhD,8,129100.0,1,5,3,0,No
+EMP-0788,45,Male,Sales,Senior,Bachelor,8,96000.0,2,1,2,0,No
+EMP-0789,29,Female,Sales,Junior,PhD,12,53800.0,5,3,1,0,No
+EMP-0790,28,Female,Operations,Mid,Bachelor,8,71500.0,5,5,3,0,No
+EMP-0791,57,Female,Engineering,Junior,Bachelor,11,63000.0,5,3,2,0,No
+EMP-0792,39,Male,HR,Senior,Bachelor,14,107900.0,2,5,2,0,No
+EMP-0793,24,Male,HR,Mid,Bachelor,8,86400.0,5,4,3,0,No
+EMP-0794,49,Female,Finance,Senior,High School,10,123900.0,3,5,2,0,No
+EMP-0795,27,Female,Engineering,Junior,Bachelor,7,46900.0,2,2,5,1,Yes
+EMP-0796,42,Female,Marketing,Junior,Bachelor,17,59800.0,3,1,3,0,No
+EMP-0797,49,Male,Operations,Senior,Bachelor,4,103700.0,2,4,2,0,No
+EMP-0798,22,Male,HR,Junior,Bachelor,13,63400.0,5,4,1,0,No
+EMP-0799,57,Male,Finance,Junior,PhD,4,52700.0,3,2,1,1,Yes
+EMP-0800,42,Female,Operations,Junior,Bachelor,5,60500.0,3,5,5,0,No
+EMP-0801,56,Male,Finance,Director,Bachelor,4,169800.0,3,1,3,0,No
+EMP-0802,34,Female,Engineering,Senior,Bachelor,18,98400.0,2,4,2,0,No
+EMP-0803,31,Male,HR,Mid,High School,6,77600.0,4,1,2,0,No
+EMP-0804,31,Female,Finance,Junior,Master,2,65000.0,5,4,1,0,No
+EMP-0805,34,Female,Sales,Mid,Bachelor,11,74700.0,3,5,5,0,No
+EMP-0806,58,Male,Finance,Senior,Master,14,91700.0,4,4,1,0,No
+EMP-0807,59,Female,Operations,Senior,Bachelor,5,109200.0,5,4,1,0,No
+EMP-0808,45,Female,Operations,Junior,Bachelor,6,48600.0,5,3,5,1,Yes
+EMP-0809,23,Female,Sales,Junior,Bachelor,10,53800.0,3,5,3,0,No
+EMP-0810,43,Male,Engineering,Junior,Bachelor,8,53600.0,3,2,2,0,No
+EMP-0811,38,Female,Operations,Senior,High School,14,105500.0,2,2,3,0,No
+EMP-0812,57,Male,Marketing,Senior,Bachelor,3,99500.0,4,5,4,0,No
+EMP-0813,35,Male,Engineering,Junior,Bachelor,12,44700.0,4,2,4,0,No
+EMP-0814,31,Female,Operations,Junior,Bachelor,16,57400.0,3,5,4,0,No
+EMP-0815,56,Male,Marketing,Junior,PhD,17,54300.0,5,2,5,0,No
+EMP-0816,46,Female,HR,Director,Bachelor,1,166300.0,3,3,1,0,No
+EMP-0817,24,Male,HR,Junior,Bachelor,10,59400.0,5,2,3,0,No
+EMP-0818,59,Female,Sales,Senior,Bachelor,10,87000.0,5,4,2,0,No
+EMP-0819,38,Male,Engineering,Senior,Bachelor,2,118500.0,3,5,4,0,No
+EMP-0820,33,Female,Sales,Mid,High School,9,81200.0,1,1,3,0,No
+EMP-0821,45,Female,Marketing,Junior,Master,13,60300.0,4,1,4,0,No
+EMP-0822,50,Female,Engineering,Junior,PhD,16,49700.0,5,5,4,0,No
+EMP-0823,46,Female,Sales,Senior,Bachelor,18,114900.0,5,3,2,0,No
+EMP-0824,57,Male,Sales,Senior,Bachelor,19,121900.0,1,2,5,0,No
+EMP-0825,47,Male,HR,Senior,High School,12,129100.0,2,3,1,1,Yes
+EMP-0826,59,Female,Operations,Mid,Master,8,74900.0,1,1,5,0,No
+EMP-0827,22,Male,Sales,Junior,Bachelor,17,40900.0,1,5,3,0,No
+EMP-0828,41,Female,Sales,Director,Bachelor,15,185200.0,5,5,5,0,No
+EMP-0829,49,Female,Finance,Senior,Bachelor,10,111600.0,4,3,3,1,Yes
+EMP-0830,37,Male,Sales,Junior,Master,15,61700.0,1,3,3,0,No
+EMP-0831,38,Male,Engineering,Director,Bachelor,15,211200.0,2,2,1,0,No
+EMP-0832,49,Female,Sales,Senior,Bachelor,7,104800.0,3,4,2,0,No
+EMP-0833,33,Male,Engineering,Mid,Master,13,75800.0,1,4,1,1,Yes
+EMP-0834,48,Female,Engineering,Senior,Bachelor,17,105600.0,1,2,5,0,No
+EMP-0835,51,Male,Sales,Manager,Master,9,146100.0,2,4,3,0,No
+EMP-0836,55,Male,Sales,Senior,Bachelor,8,103400.0,4,1,4,1,Yes
+EMP-0837,58,Male,Operations,Junior,Master,18,56400.0,1,4,4,0,No
+EMP-0838,27,Male,Sales,Mid,Master,13,64600.0,1,2,3,1,Yes
+EMP-0839,28,Male,HR,Manager,Bachelor,16,133500.0,4,4,1,0,No
+EMP-0840,53,Female,Finance,Junior,Master,9,64200.0,2,5,2,0,No
+EMP-0841,53,Male,Engineering,Mid,Bachelor,12,70200.0,1,3,1,0,No
+EMP-0842,46,Male,Finance,Mid,PhD,12,80800.0,4,1,3,0,No
+EMP-0843,54,Female,Engineering,Mid,Bachelor,6,79500.0,1,5,3,0,No
+EMP-0844,28,Female,Operations,Senior,Master,19,123300.0,3,5,2,0,No
+EMP-0845,33,Female,Engineering,Manager,Bachelor,7,152600.0,5,2,5,0,No
+EMP-0846,37,Male,Sales,Junior,PhD,3,61500.0,3,3,5,0,No
+EMP-0847,37,Male,Engineering,Junior,Bachelor,16,49500.0,1,3,2,1,Yes
+EMP-0848,57,Female,Operations,Junior,PhD,18,47900.0,2,1,5,0,No
+EMP-0849,34,Female,HR,Manager,PhD,16,145900.0,5,2,4,0,No
+EMP-0850,28,Female,HR,Senior,Bachelor,7,119200.0,3,1,5,1,Yes
+EMP-0851,57,Female,Engineering,Junior,Master,4,61800.0,4,4,5,0,No
+EMP-0852,30,Male,Finance,Manager,PhD,8,111800.0,2,5,5,0,No
+EMP-0853,53,Male,Engineering,Manager,Bachelor,13,113400.0,3,1,4,0,No
+EMP-0854,32,Male,Marketing,Manager,Bachelor,13,141600.0,4,5,5,0,No
+EMP-0855,29,Male,Engineering,Manager,Bachelor,17,156000.0,1,2,4,0,No
+EMP-0856,54,Male,Engineering,Junior,Bachelor,17,64900.0,4,4,2,0,No
+EMP-0857,44,Female,Engineering,Senior,High School,5,118600.0,3,2,1,0,No
+EMP-0858,46,Male,Sales,Mid,Bachelor,6,73000.0,3,4,2,0,No
+EMP-0859,29,Female,HR,Manager,Bachelor,19,114900.0,1,4,1,0,No
+EMP-0860,43,Female,Engineering,Senior,Bachelor,13,113500.0,4,5,2,0,No
+EMP-0861,25,Female,Marketing,Senior,Bachelor,14,124300.0,4,2,1,0,No
+EMP-0862,24,Male,Sales,Senior,Master,4,105000.0,1,2,1,0,No
+EMP-0863,50,Female,HR,Junior,Master,7,57400.0,4,1,3,0,No
+EMP-0864,50,Male,Sales,Mid,High School,8,87100.0,1,2,1,1,Yes
+EMP-0865,55,Female,Sales,Director,Master,13,153200.0,2,1,1,1,Yes
+EMP-0866,55,Male,HR,Manager,Master,6,149800.0,3,3,3,0,No
+EMP-0867,49,Female,Engineering,Junior,PhD,6,47300.0,2,3,5,0,No
+EMP-0868,34,Male,Engineering,Junior,High School,3,49400.0,5,3,5,0,No
+EMP-0869,36,Female,Marketing,Junior,Bachelor,3,43600.0,5,2,3,0,No
+EMP-0870,44,Female,Operations,Senior,PhD,13,108900.0,5,2,4,0,No
+EMP-0871,47,Female,Sales,Manager,PhD,2,138300.0,1,1,1,0,No
+EMP-0872,25,Female,Engineering,Junior,Master,16,59800.0,4,4,1,0,No
+EMP-0873,47,Male,Finance,Mid,Master,6,65100.0,2,1,3,0,No
+EMP-0874,30,Male,Sales,Manager,High School,8,113900.0,2,3,3,0,No
+EMP-0875,26,Male,Engineering,Senior,Bachelor,8,124200.0,2,1,4,0,No
+EMP-0876,53,Female,Engineering,Mid,Bachelor,6,78600.0,2,4,5,0,No
+EMP-0877,41,Female,Finance,Mid,Bachelor,14,67200.0,5,2,2,0,No
+EMP-0878,32,Female,Finance,Mid,Master,3,87400.0,2,1,5,1,Yes
+EMP-0879,36,Female,Engineering,Junior,Bachelor,10,43600.0,4,3,1,0,No
+EMP-0880,53,Female,Engineering,Mid,Bachelor,3,73800.0,5,3,3,0,No
+EMP-0881,49,Female,Engineering,Senior,PhD,12,96400.0,2,2,4,0,No
+EMP-0882,43,Male,Finance,Manager,Bachelor,17,122800.0,1,1,5,1,Yes
+EMP-0883,38,Male,Engineering,Senior,PhD,5,85400.0,3,4,4,0,No
+EMP-0884,47,Male,Engineering,Senior,PhD,9,121200.0,3,2,5,0,No
+EMP-0885,28,Male,Marketing,Junior,Bachelor,7,62500.0,3,1,1,1,Yes
+EMP-0886,47,Male,Engineering,Mid,Bachelor,4,80300.0,5,5,2,0,No
+EMP-0887,46,Male,Finance,Junior,Bachelor,13,43900.0,2,3,4,0,No
+EMP-0888,31,Male,Engineering,Junior,Bachelor,13,51000.0,5,4,4,0,No
+EMP-0889,40,Male,Engineering,Senior,Bachelor,10,100600.0,4,4,2,0,No
+EMP-0890,32,Female,Engineering,Director,Bachelor,18,191100.0,1,4,4,0,No
+EMP-0891,34,Female,Finance,Junior,PhD,17,56000.0,1,3,4,1,Yes
+EMP-0892,29,Female,Marketing,Mid,Bachelor,13,72700.0,3,1,5,0,No
+EMP-0893,25,Female,Marketing,Manager,Master,17,122500.0,3,2,5,0,No
+EMP-0894,52,Female,Sales,Junior,High School,4,61100.0,3,1,2,0,No
+EMP-0895,49,Female,Finance,Mid,Bachelor,1,66000.0,2,2,1,1,Yes
+EMP-0896,32,Female,Engineering,Senior,PhD,1,102300.0,4,4,4,0,No
+EMP-0897,22,Male,Engineering,Senior,Bachelor,15,106700.0,4,1,1,0,No
+EMP-0898,59,Male,Marketing,Junior,Bachelor,13,45900.0,4,4,2,0,No
+EMP-0899,45,Female,Engineering,Mid,Master,17,77200.0,4,5,2,0,No
+EMP-0900,52,Male,Engineering,Senior,Master,8,110900.0,3,4,5,0,No
+EMP-0901,47,Male,Engineering,Mid,Master,18,89800.0,1,4,4,0,No
+EMP-0902,26,Male,Engineering,Junior,Bachelor,13,47400.0,3,2,3,0,No
+EMP-0903,41,Male,Engineering,Senior,Bachelor,14,129000.0,4,5,2,1,Yes
+EMP-0904,32,Male,HR,Junior,PhD,8,56500.0,3,4,4,0,No
+EMP-0905,54,Female,Sales,Senior,PhD,8,97400.0,4,4,1,0,No
+EMP-0906,59,Male,Marketing,Junior,Bachelor,15,54100.0,5,5,5,0,No
+EMP-0907,48,Female,Marketing,Director,Master,13,198000.0,1,5,1,0,No
+EMP-0908,55,Female,Sales,Mid,Bachelor,7,82300.0,5,1,2,0,No
+EMP-0909,36,Female,Engineering,Mid,Bachelor,5,61500.0,2,2,2,1,Yes
+EMP-0910,53,Male,Sales,Junior,Bachelor,17,55200.0,3,5,1,1,Yes
+EMP-0911,42,Female,HR,Mid,Bachelor,16,74900.0,2,5,2,1,Yes
+EMP-0912,26,Female,Engineering,Manager,Bachelor,2,155200.0,3,3,4,0,No
+EMP-0913,27,Female,Finance,Director,High School,18,170000.0,5,5,2,0,No
+EMP-0914,59,Female,Sales,Mid,Bachelor,17,84000.0,4,2,5,0,No
+EMP-0915,43,Male,HR,Mid,Master,7,78200.0,4,4,4,1,Yes
+EMP-0916,39,Female,Sales,Senior,Master,13,100900.0,3,4,3,0,No
+EMP-0917,35,Female,Engineering,Manager,Master,18,141800.0,4,4,2,0,No
+EMP-0918,31,Female,Operations,Mid,PhD,14,78600.0,5,4,2,0,No
+EMP-0919,34,Female,Marketing,Mid,High School,18,80300.0,4,3,5,0,No
+EMP-0920,52,Male,Engineering,Mid,Bachelor,13,81600.0,5,5,5,0,No
+EMP-0921,51,Female,Marketing,Senior,Master,11,114700.0,2,4,1,0,No
+EMP-0922,24,Female,Sales,Junior,Bachelor,16,61000.0,5,1,1,0,No
+EMP-0923,51,Female,Marketing,Senior,Bachelor,17,113300.0,1,4,1,1,Yes
+EMP-0924,27,Female,Marketing,Mid,Bachelor,8,87100.0,1,5,5,0,No
+EMP-0925,50,Female,Sales,Senior,Master,19,114100.0,1,4,1,0,No
+EMP-0926,29,Female,Engineering,Junior,Bachelor,15,47700.0,3,3,1,0,No
+EMP-0927,54,Male,Engineering,Mid,Master,9,73200.0,3,2,3,0,No
+EMP-0928,38,Female,HR,Mid,Bachelor,10,77400.0,3,2,1,1,Yes
+EMP-0929,32,Male,Finance,Senior,Master,12,118000.0,5,5,2,0,No
+EMP-0930,34,Male,Engineering,Junior,Master,1,42300.0,3,2,5,0,No
+EMP-0931,32,Female,Engineering,Mid,Master,9,68900.0,2,2,4,0,No
+EMP-0932,52,Male,Marketing,Mid,Bachelor,15,82400.0,1,1,3,1,Yes
+EMP-0933,49,Female,Operations,Mid,Bachelor,1,65300.0,5,5,5,0,No
+EMP-0934,27,Male,HR,Senior,Master,12,90900.0,1,5,5,0,No
+EMP-0935,37,Female,Engineering,Senior,Bachelor,3,109300.0,3,2,2,0,No
+EMP-0936,25,Male,Engineering,Manager,Bachelor,11,158600.0,5,2,1,0,No
+EMP-0937,56,Male,Engineering,Junior,High School,2,53300.0,4,2,2,0,No
+EMP-0938,47,Female,Operations,Manager,PhD,16,155700.0,2,3,1,1,Yes
+EMP-0939,33,Male,Engineering,Mid,High School,9,84900.0,3,4,1,0,No
+EMP-0940,32,Male,HR,Junior,Master,15,46400.0,3,3,5,0,No
+EMP-0941,58,Male,Engineering,Junior,Bachelor,12,60600.0,2,5,1,0,No
+EMP-0942,46,Male,HR,Mid,Bachelor,1,74500.0,2,1,3,0,No
+EMP-0943,39,Male,Finance,Senior,Master,13,121300.0,4,4,3,0,No
+EMP-0944,40,Female,Marketing,Senior,High School,14,118600.0,3,1,3,0,No
+EMP-0945,44,Male,Engineering,Senior,Bachelor,8,100200.0,3,5,5,0,No
+EMP-0946,59,Male,Engineering,Mid,Master,8,63500.0,1,5,2,1,Yes
+EMP-0947,39,Female,Engineering,Mid,Master,12,88900.0,5,1,4,0,No
+EMP-0948,47,Female,Operations,Junior,Bachelor,1,43500.0,5,1,1,1,Yes
+EMP-0949,27,Female,Marketing,Mid,Master,11,89000.0,1,1,4,0,No
+EMP-0950,25,Male,HR,Mid,Master,8,85800.0,5,5,2,0,No
+EMP-0951,50,Male,Finance,Junior,Master,10,58100.0,2,2,2,1,Yes
+EMP-0952,55,Male,Finance,Junior,Bachelor,19,64500.0,5,1,5,0,No
+EMP-0953,38,Male,Engineering,Mid,Bachelor,11,89000.0,5,4,3,0,No
+EMP-0954,37,Female,Operations,Senior,PhD,7,121200.0,1,5,3,0,No
+EMP-0955,23,Female,Sales,Director,Master,11,175600.0,4,3,2,0,No
+EMP-0956,55,Male,Sales,Manager,Bachelor,17,149500.0,5,3,5,0,No
+EMP-0957,29,Male,HR,Senior,Bachelor,1,85600.0,5,4,5,0,No
+EMP-0958,34,Male,Engineering,Mid,Bachelor,8,76100.0,4,2,1,0,No
+EMP-0959,29,Male,Engineering,Senior,Bachelor,6,105500.0,1,1,3,0,No
+EMP-0960,51,Female,Finance,Senior,Bachelor,18,115300.0,4,5,2,0,No
+EMP-0961,53,Female,Engineering,Junior,Bachelor,6,56800.0,1,1,4,0,No
+EMP-0962,57,Male,Finance,Mid,Master,5,77500.0,2,5,3,0,No
+EMP-0963,51,Female,Engineering,Manager,High School,13,151100.0,1,3,1,0,No
+EMP-0964,22,Male,Sales,Mid,Master,19,88200.0,2,1,5,0,No
+EMP-0965,38,Male,Engineering,Mid,Bachelor,8,63300.0,2,4,2,1,Yes
+EMP-0966,41,Female,Sales,Mid,Bachelor,9,67000.0,1,2,3,0,No
+EMP-0967,45,Male,Finance,Junior,High School,17,40600.0,3,4,4,0,No
+EMP-0968,43,Female,Engineering,Mid,Bachelor,3,86500.0,1,2,1,0,No
+EMP-0969,50,Male,HR,Mid,Master,19,76800.0,5,1,1,0,No
+EMP-0970,43,Female,Sales,Junior,Master,11,62900.0,5,1,3,0,No
+EMP-0971,30,Male,Finance,Junior,Bachelor,17,45500.0,3,2,4,0,No
+EMP-0972,58,Female,Operations,Manager,Bachelor,19,113200.0,2,3,1,0,No
+EMP-0973,31,Male,Finance,Junior,Bachelor,2,60600.0,3,5,2,0,No
+EMP-0974,57,Male,Engineering,Mid,Master,8,87300.0,5,4,1,0,No
+EMP-0975,58,Female,Engineering,Junior,Master,19,47600.0,3,4,4,0,No
+EMP-0976,49,Male,Engineering,Manager,Bachelor,7,130400.0,1,4,5,0,No
+EMP-0977,49,Female,HR,Junior,Master,17,43500.0,3,1,5,0,No
+EMP-0978,42,Female,Engineering,Mid,Master,6,88400.0,2,4,3,0,No
+EMP-0979,45,Male,Sales,Manager,High School,19,125200.0,1,5,4,1,Yes
+EMP-0980,23,Male,HR,Manager,Bachelor,6,134600.0,4,5,1,0,No
+EMP-0981,29,Male,Sales,Junior,PhD,2,42400.0,5,2,1,0,No
+EMP-0982,48,Male,Marketing,Manager,Master,6,154400.0,5,1,5,0,No
+EMP-0983,43,Female,Engineering,Mid,Bachelor,5,64100.0,3,5,5,0,No
+EMP-0984,58,Male,Engineering,Mid,Bachelor,19,73600.0,1,3,2,1,Yes
+EMP-0985,48,Male,Finance,Junior,Bachelor,4,56800.0,4,1,5,0,No
+EMP-0986,50,Male,Sales,Junior,Bachelor,17,58600.0,1,1,2,0,No
+EMP-0987,24,Female,Finance,Senior,Master,11,127600.0,5,5,1,1,Yes
+EMP-0988,34,Male,Sales,Mid,Bachelor,4,72600.0,1,3,2,0,No
+EMP-0989,31,Female,Engineering,Mid,Master,13,82300.0,4,2,2,0,No
+EMP-0990,57,Male,Marketing,Senior,Master,17,92000.0,3,5,3,1,Yes
+EMP-0991,30,Female,Marketing,Senior,Bachelor,9,103700.0,2,3,5,0,No
+EMP-0992,48,Male,Finance,Junior,Bachelor,4,42500.0,1,1,2,0,No
+EMP-0993,55,Male,Engineering,Senior,Bachelor,14,107000.0,2,3,1,0,No
+EMP-0994,22,Female,HR,Junior,Master,19,50200.0,5,1,4,0,No
+EMP-0995,53,Male,Sales,Senior,Bachelor,3,127800.0,3,5,2,0,No
+EMP-0996,46,Male,Engineering,Senior,Master,14,86500.0,3,5,5,0,No
+EMP-0997,50,Male,Operations,Director,Master,8,175900.0,1,4,3,0,No
+EMP-0998,28,Female,Engineering,Junior,Bachelor,1,51100.0,3,4,1,1,Yes
+EMP-0999,24,Male,Operations,Junior,PhD,10,63800.0,1,4,3,1,Yes
+EMP-1000,41,Female,Sales,Junior,PhD,18,61400.0,1,5,4,0,No
